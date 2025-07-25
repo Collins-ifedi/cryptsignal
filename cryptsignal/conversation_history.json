@@ -1,0 +1,22 @@
+[
+  {
+    "user": "crack a joke",
+    "response": "Hey, I noticed you mentioned SOL. Would you like me to generate a trading signal or analyze something specific about it, like sentiment or indicators?"
+  },
+  {
+    "user": "analyze solana's pattern",
+    "response": "I'm here to help! What would you like to talk about?"
+  },
+  {
+    "user": "analyze solana pattern",
+    "response": "I'm here to help! What would you like to talk about?"
+  },
+  {
+    "user": "analyze solana anomalies",
+    "response": "Failed to perform anomaly detection. Check logs for details."
+  },
+  {
+    "user": "analyze solana's pattern",
+    "response": "Failed to fetch market data for solana pattern analysis."
+  }
+]
