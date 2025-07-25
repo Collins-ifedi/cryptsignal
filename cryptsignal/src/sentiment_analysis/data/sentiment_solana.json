@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-04-04 13:52:04",
+    "coin": "Solana",
+    "reddit": {
+        "platform": "Reddit",
+        "coin": "Solana",
+        "sentiment_score": 0,
+        "data": []
+    },
+    "twitter": {
+        "platform": "X",
+        "coin": "Solana",
+        "sentiment_score": 0,
+        "data": []
+    }
+}
