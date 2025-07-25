@@ -1,0 +1,65 @@
+[
+  {
+    "title": "GDP Growth Rate",
+    "text": "A higher GDP growth rate indicates a strong economy, potentially increasing investor confidence and appetite for riskier assets like Bitcoin. However, it may also lead to higher interest rates and inflation concerns, negatively impacting Bitcoin. The overall effect is mixed, but generally, a moderate GDP growth is seen as positive for Bitcoin.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "Unemployment Rate",
+    "text": "LLM response parsing failed for Unemployment Rate.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM response parsing failed for Unemployment Rate. Content: ```json..."
+  },
+  {
+    "title": "CPI Inflation",
+    "text": "CPI Inflation indicates the rate of inflation in an economy. High inflation can erode the purchasing power of fiat currencies, potentially increasing Bitcoin's appeal as a store of value and hedge against inflation. Conversely, low inflation may reduce Bitcoin's attractiveness. Moderate inflation is generally seen as positive for Bitcoin as it suggests economic activity without excessive currency devaluation.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "Interest Rate",
+    "text": "LLM response parsing failed for Interest Rate.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM response parsing failed for Interest Rate. Content: ```json..."
+  },
+  {
+    "title": "Consumer Confidence Index",
+    "text": "A higher Consumer Confidence Index indicates increased consumer spending and economic optimism, potentially leading to higher risk asset investment, including cryptocurrencies like Bitcoin. Conversely, a decline may signal economic downturn, reducing investor appetite for riskier assets. Generally, a rising CCI is seen as positive for Bitcoin due to increased economic activity and potential for higher investment in risk assets.",
+    "sentiment": 0.6,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "Retail Sales",
+    "text": "Strong retail sales indicate a healthy consumer economy, potentially boosting investor confidence and liquidity in risk assets like Bitcoin. Conversely, weak retail sales may signal economic slowdown, negatively impacting Bitcoin. However, the relationship is indirect, and other factors influence Bitcoin's price more directly.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "ISM Manufacturing PMI",
+    "text": "A high ISM Manufacturing PMI indicates a strong manufacturing sector, potentially leading to economic growth and increased investor confidence. This can boost Bitcoin's appeal as a hedge against inflation or market volatility. Conversely, a low PMI may signal economic slowdown, negatively impacting Bitcoin. Historically, a strong PMI has been positive for risk assets like Bitcoin.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "Initial Jobless Claims",
+    "text": "LLM response parsing failed for Initial Jobless Claims.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM response parsing failed for Initial Jobless Claims. Content: ```json..."
+  },
+  {
+    "title": "Non-Farm Payrolls",
+    "text": "A strong Non-Farm Payrolls report indicates a healthy US labor market, potentially leading to higher interest rates and a stronger dollar. This can negatively impact Bitcoin in the short term as investors favor traditional assets. However, a robust economy can also signal long-term confidence in risk assets, including cryptocurrencies.",
+    "sentiment": -0.3,
+    "category": "mini negative",
+    "error": null
+  }
+]
