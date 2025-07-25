@@ -1,0 +1,50 @@
+[
+  {
+    "title": "US Real GDP",
+    "analysis": "Error analyzing US Real GDP: No valid time series found in response."
+  },
+  {
+    "title": "US GDP Per Capita",
+    "analysis": "Error analyzing US GDP Per Capita: No valid time series found in response."
+  },
+  {
+    "title": "Consumer Price Index (CPI)",
+    "analysis": "Error analyzing Consumer Price Index (CPI): No valid time series found in response."
+  },
+  {
+    "title": "Inflation Rate",
+    "analysis": "Error analyzing Inflation Rate: No valid time series found in response."
+  },
+  {
+    "title": "Inflation Expectations",
+    "analysis": "Error analyzing Inflation Expectations: No valid time series found in response."
+  },
+  {
+    "title": "Unemployment Rate",
+    "analysis": "Error analyzing Unemployment Rate: No valid time series found in response."
+  },
+  {
+    "title": "Nonfarm Payroll",
+    "analysis": "Error analyzing Nonfarm Payroll: No valid time series found in response."
+  },
+  {
+    "title": "Retail Sales",
+    "analysis": "Error analyzing Retail Sales: No valid time series found in response."
+  },
+  {
+    "title": "Industrial Production",
+    "analysis": "Error analyzing Industrial Production: No valid time series found in response."
+  },
+  {
+    "title": "Federal Funds Rate",
+    "analysis": "Error analyzing Federal Funds Rate: No valid time series found in response."
+  },
+  {
+    "title": "US Treasury Yield",
+    "analysis": "Error analyzing US Treasury Yield: No valid time series found in response."
+  },
+  {
+    "title": "USD Index",
+    "analysis": "Error analyzing USD Index: No valid time series found in response."
+  }
+]
