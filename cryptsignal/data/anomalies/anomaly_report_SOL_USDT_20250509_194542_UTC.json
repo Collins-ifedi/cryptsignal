@@ -1,0 +1,69 @@
+{
+    "report_timestamp_utc": "2025-05-09T19:45:42.667067+00:00",
+    "trading_symbol": "SOL/USDT",
+    "exchange": "binance",
+    "timeframe": "1h",
+    "anomaly_detected": false,
+    "anomaly_score": 1.75,
+    "threshold_used": 7.0,
+    "contributing_factors": {
+        "Technical": {
+            "score": -0.5,
+            "factors": [
+                "MACD Hist Neg (-0.1882)"
+            ]
+        },
+        "Pattern": {
+            "score": 1.5,
+            "factors": [
+                "Overall Sentiment: Bullish",
+                "Latest Patterns: Hammer, Inverted Hammer, Shooting Star, Spinning Top"
+            ]
+        },
+        "OnChain": {
+            "score": 0.0,
+            "factors": [
+                "Skipped (Unintegrated)"
+            ]
+        },
+        "Volatility": {
+            "score": 0.0,
+            "factors": [
+                "Normal recent volatility."
+            ]
+        }
+    },
+    "data_summary": {
+        "latest_technical_timestamp": "2025-05-09T19:00:00",
+        "onchain_analysis": {
+            "status": "Unintegrated",
+            "sentiment": "N/A",
+            "net_flow_usd": "N/A",
+            "whale_txs": "N/A"
+        },
+        "pattern_analysis_summary": {
+            "status": "Analyzed",
+            "overall_sentiment": "Bullish",
+            "latest_patterns_list": [
+                "Hammer",
+                "Inverted Hammer",
+                "Shooting Star",
+                "Spinning Top"
+            ]
+        }
+    },
+    "full_pattern_analysis_results": {
+        "symbol": "Unknown",
+        "latest_patterns": [
+            "Hammer",
+            "Inverted Hammer",
+            "Shooting Star",
+            "Spinning Top"
+        ],
+        "sentiment": "Bullish",
+        "bullish_signals": 5,
+        "bearish_signals": 3,
+        "total_patterns_checked": 27,
+        "last_timestamp": "2025-05-09T19:00:00"
+    }
+}
