@@ -1,0 +1,21 @@
+{
+    "report_timestamp_utc": "2025-04-27T16:38:06.379623",
+    "trading_symbol": "SOL/USDT",
+    "exchange": "bybit",
+    "timeframe": "2h",
+    "anomaly_detected": false,
+    "anomaly_score": 2.46,
+    "contributing_factors": {
+        "Technical": "Score: 0.5. Factors: MACD Hist + (0.04)",
+        "Pattern": "Score: 1.0. Factors: Falling Wedge (Bull)",
+        "OnChain": "Type: fallback_coingecko. Score: -0.0. Factors: CG Price Chg (-0.4%)"
+    },
+    "data_summary": {
+        "latest_technical_timestamp": "2025-04-27T16:00:00",
+        "onchain_analysis_type": "fallback_coingecko",
+        "onchain_sentiment": "Neutral (Fallback - CoinGecko)",
+        "social_sentiment_avg": 0.0,
+        "fear_greed_index": "N/A",
+        "whale_social_description": "N/A"
+    }
+}
