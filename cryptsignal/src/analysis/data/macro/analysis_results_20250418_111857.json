@@ -1,0 +1,104 @@
+[
+  {
+    "title": "US Real GDP",
+    "trend": "increasing",
+    "recent_values": [
+      23305.023,
+      22671.096,
+      22034.828
+    ],
+    "analysis": "The US Real GDP appears to be increasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "US GDP Per Capita",
+    "trend": "increasing",
+    "recent_values": [
+      69006.0,
+      68696.0,
+      68320.0
+    ],
+    "analysis": "The US GDP Per Capita appears to be increasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Consumer Price Index (CPI)",
+    "trend": "increasing",
+    "recent_values": [
+      319.799,
+      319.082,
+      317.671
+    ],
+    "analysis": "The Consumer Price Index (CPI) appears to be increasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Inflation Rate",
+    "trend": "decreasing",
+    "recent_values": [
+      2.94952520485207,
+      4.11633838374488,
+      8.00279982052121
+    ],
+    "analysis": "The Inflation Rate appears to be decreasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Inflation Expectations",
+    "analysis": "Error analyzing Inflation Expectations: No valid time series or data list found."
+  },
+  {
+    "title": "Unemployment Rate",
+    "trend": "increasing",
+    "recent_values": [
+      4.2,
+      4.1,
+      4.0
+    ],
+    "analysis": "The Unemployment Rate appears to be increasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Nonfarm Payroll",
+    "trend": "increasing",
+    "recent_values": [
+      158506.0,
+      157950.0,
+      157095.0
+    ],
+    "analysis": "The Nonfarm Payroll appears to be increasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Retail Sales",
+    "trend": "increasing",
+    "recent_values": [
+      635047.0,
+      553589.0,
+      576031.0
+    ],
+    "analysis": "The Retail Sales appears to be increasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Industrial Production",
+    "analysis": "Error analyzing Industrial Production: No valid time series or data list found."
+  },
+  {
+    "title": "Federal Funds Rate",
+    "trend": "decreasing",
+    "recent_values": [
+      4.33,
+      4.33,
+      4.33
+    ],
+    "analysis": "The Federal Funds Rate appears to be decreasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "US Treasury Yield",
+    "trend": "decreasing",
+    "recent_values": [
+      4.28,
+      4.45,
+      4.63
+    ],
+    "analysis": "The US Treasury Yield appears to be decreasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "USD Index",
+    "analysis": "Error analyzing USD Index: No valid time series or data list found."
+  }
+]
