@@ -1,0 +1,65 @@
+[
+  {
+    "title": "GDP Growth Rate",
+    "text": "A higher GDP growth rate typically indicates a strong economy, potentially increasing investor confidence and appetite for riskier assets like Bitcoin. However, it may also lead to higher interest rates and inflation concerns, negatively impacting Bitcoin. The overall effect is mixed, but generally, a growing economy is seen as positive for Bitcoin in the long term.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "Unemployment Rate",
+    "text": "A low unemployment rate typically signifies a strong labor market and consumer spending power, potentially increasing investment in assets including cryptocurrencies like Bitcoin. Conversely, very low unemployment may prompt inflation concerns and higher borrowing costs, which could dampen investor enthusiasm. Overall, a stable, low unemployment rate is positive.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "CPI Inflation",
+    "text": "CPI inflation indicates the rate of change in prices of a basket of goods and services. High inflation can erode the purchasing power of fiat currencies, potentially increasing Bitcoin's appeal as a hedge. Conversely, very high inflation might prompt central banks to raise interest rates, negatively impacting risk assets like Bitcoin. Moderate inflation is generally seen as positive for Bitcoin as it is perceived as a store of value.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "Interest Rate",
+    "text": "Higher interest rates can make traditional investments more attractive, potentially reducing demand for Bitcoin. Conversely, low interest rates can drive investors to seek higher returns in riskier assets like Bitcoin. The impact depends on the overall economic context and investor sentiment.",
+    "sentiment": -0.4,
+    "category": "mini negative",
+    "error": null
+  },
+  {
+    "title": "Consumer Confidence Index",
+    "text": "A high Consumer Confidence Index indicates a strong economy with increased consumer spending, potentially leading to higher inflation and interest rates. This can negatively impact Bitcoin in the short term as investors favor traditional assets over riskier ones. However, a strong economy can also boost Bitcoin's adoption as a store of value.",
+    "sentiment": -0.2,
+    "category": "mini negative",
+    "error": null
+  },
+  {
+    "title": "Retail Sales",
+    "text": "Strong retail sales indicate a healthy consumer economy, potentially leading to higher inflation and interest rates. This can negatively impact Bitcoin in the short term by reducing liquidity and making traditional assets more attractive. However, a robust economy can also boost investor confidence, potentially benefiting Bitcoin in the long run.",
+    "sentiment": -0.2,
+    "category": "mini negative",
+    "error": null
+  },
+  {
+    "title": "ISM Manufacturing PMI",
+    "text": "The ISM Manufacturing PMI is a key indicator of the US manufacturing sector's health. A higher-than-expected reading can signal economic strength, potentially boosting investor confidence and risk appetite, which can be positive for Bitcoin. Conversely, a lower reading may indicate economic slowdown, negatively impacting Bitcoin.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "Initial Jobless Claims",
+    "text": "Initial Jobless Claims indicate the number of people filing for unemployment benefits for the first time. A decrease suggests a strong labor market, potentially boosting investor confidence and risk appetite, which can positively impact Bitcoin. Conversely, an increase may signal economic weakness, negatively affecting Bitcoin.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  },
+  {
+    "title": "Non-Farm Payrolls",
+    "text": "Non-Farm Payrolls indicate the health of the US labor market. Strong job growth can boost investor confidence, potentially increasing investment in risky assets like Bitcoin. Conversely, weak job growth may dampen investor enthusiasm. The impact on Bitcoin is generally tied to overall market sentiment and liquidity.",
+    "sentiment": 0.3,
+    "category": "mini positive",
+    "error": null
+  }
+]
