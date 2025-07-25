@@ -1,0 +1,612 @@
+2025-07-02 14:32:17,975 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-02 14:32:18,012 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-02 14:32:18,013 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-02 14:32:18,013 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick:free
+2025-07-02 14:32:18,021 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-02 14:32:18,022 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-02 14:32:18,022 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-02 14:32:21,507 - TradingAssistantNLPHandler - ERROR - HTTP error calling OpenRouter API (Status 429): {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remain
+Traceback (most recent call last):
+  File "<string>", line 377, in _call_llm_api_sync
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions
+2025-07-02 14:32:21,527 - TradingAssistantNLPHandler - WARNING - LLM failed to generate a valid dynamic welcome message (response: 'Sorry, the LLM API rate limit has been reached. Please wait a moment before trying again....'). Using static fallback.
+2025-07-02 14:50:42,235 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 10:31:45,134 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 10:31:45,174 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 10:31:45,175 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 10:31:45,176 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick:free
+2025-07-19 10:31:45,182 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 10:31:45,182 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 10:31:45,183 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 10:31:48,841 - TradingAssistantNLPHandler - ERROR - HTTP error calling OpenRouter API (Status 404): {"error":{"message":"No endpoints found for meta-llama/llama-4-maverick:free.","code":404},"user_id":"user_2wg4W6tpOg8VQN39OoVKvZgUGYY"}
+Traceback (most recent call last):
+  File "<string>", line 377, in _call_llm_api_sync
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2025-07-19 10:31:48,863 - TradingAssistantNLPHandler - WARNING - LLM failed to generate a valid dynamic welcome message (response: 'Sorry, I encountered an API error (Status: 404). Details: {"error":{"message":"No endpoints found fo...'). Using static fallback.
+2025-07-19 10:32:07,632 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-19 10:32:07,635 - TradingAssistantNLPHandler - INFO - Processing Query: 'how are u', Extracted Coin Entity: 'HOW', Detected Intent: 'unknown'
+2025-07-19 10:32:07,636 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'how are u'. Attempting dynamic LLM response.
+2025-07-19 10:32:10,226 - TradingAssistantNLPHandler - ERROR - HTTP error calling OpenRouter API (Status 404): {"error":{"message":"No endpoints found for meta-llama/llama-4-maverick:free.","code":404},"user_id":"user_2wg4W6tpOg8VQN39OoVKvZgUGYY"}
+Traceback (most recent call last):
+  File "<string>", line 377, in _call_llm_api_sync
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2025-07-19 10:45:32,107 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 10:45:32,140 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 10:45:32,141 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 10:45:32,141 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick:free
+2025-07-19 10:45:32,146 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 10:45:32,147 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 10:45:32,147 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 10:45:37,930 - TradingAssistantNLPHandler - ERROR - HTTP error calling OpenRouter API (Status 404): {"error":{"message":"No endpoints found for meta-llama/llama-4-maverick:free.","code":404},"user_id":"user_2wg4W6tpOg8VQN39OoVKvZgUGYY"}
+Traceback (most recent call last):
+  File "<string>", line 377, in _call_llm_api_sync
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions
+2025-07-19 10:45:37,943 - TradingAssistantNLPHandler - WARNING - LLM failed to generate a valid dynamic welcome message (response: 'Sorry, I encountered an API error (Status: 404). Details: {"error":{"message":"No endpoints found fo...'). Using static fallback.
+2025-07-19 10:46:35,478 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 10:46:35,515 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 10:46:35,516 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 10:46:35,517 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 10:46:35,521 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 10:46:35,522 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 10:46:35,523 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 10:46:38,658 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 309 chars.
+2025-07-19 10:46:38,663 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-19 10:47:04,227 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-19 10:47:04,228 - TradingAssistantNLPHandler - INFO - Processing Query: 'generate me a trading signal on doge', Extracted Coin Entity: 'ME', Detected Intent: 'generate_signal'
+2025-07-19 10:47:04,228 - TradingAssistantNLPHandler - INFO - Resolving 'ME' to a trading pair using CoinSymbolMapper...
+2025-07-19 10:47:04,231 - TradingAssistantNLPHandler - ERROR - An unexpected error occurred in handle_query for intent 'generate_signal' with query 'generate me a trading signal on doge': name 'get_trading_pair' is not defined
+Traceback (most recent call last):
+  File "<string>", line 1236, in handle_query
+  File "<string>", line 457, in _get_symbol_for_module
+NameError: name 'get_trading_pair' is not defined
+2025-07-19 10:47:04,235 - TradingAssistantNLPHandler - ERROR - Error encountered during processing your request (intent: generate_signal): NameError - name 'get_trading_pair' is not defined
+Traceback (most recent call last):
+  File "<string>", line 1236, in handle_query
+  File "<string>", line 457, in _get_symbol_for_module
+NameError: name 'get_trading_pair' is not defined
+2025-07-19 10:51:27,585 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 10:51:27,637 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 10:51:27,638 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 10:51:27,639 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 10:51:27,645 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 10:51:27,646 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 10:51:27,646 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 10:52:02,044 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 335 chars.
+2025-07-19 10:52:02,049 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-19 10:52:15,330 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-19 10:52:15,335 - TradingAssistantNLPHandler - INFO - Processing Query: 'gget me a t', Extracted Coin Entity: 'GGET', Detected Intent: 'unknown'
+2025-07-19 10:52:15,336 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'gget me a t'. Attempting dynamic LLM response.
+2025-07-19 10:52:18,149 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 256 chars.
+2025-07-19 10:52:25,970 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-19 10:52:25,971 - TradingAssistantNLPHandler - INFO - Processing Query: 'w', Extracted Coin Entity: 'GGET', Detected Intent: 'unknown'
+2025-07-19 10:52:25,972 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'w'. Attempting dynamic LLM response.
+2025-07-19 10:52:28,048 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 215 chars.
+2025-07-19 10:52:55,278 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-19 10:52:55,279 - TradingAssistantNLPHandler - INFO - Processing Query: 'i want you to give me signals on doge', Extracted Coin Entity: 'WANT', Detected Intent: 'generate_signal'
+2025-07-19 10:52:55,280 - TradingAssistantNLPHandler - INFO - Resolving 'WANT' to a trading pair using CoinSymbolMapper...
+2025-07-19 10:52:55,281 - TradingAssistantNLPHandler - WARNING - Could not resolve 'WANT' to a trading pair via mapper. This may cause issues with data fetching.
+2025-07-19 10:52:55,281 - TradingAssistantNLPHandler - INFO - Attempting to generate signal for trading pair: WANT/USDT...
+2025-07-19 10:52:55,282 - TradingAssistantNLPHandler - ERROR - SignalGenerator class is not correctly loaded or is a dummy. Cannot generate signal.
+2025-07-19 10:52:55,285 - TradingAssistantNLPHandler - ERROR - Error encountered during Signal Generation (Module Load Error): ImportError - SignalGenerator module not loaded
+NoneType: None
+2025-07-19 11:02:39,904 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 11:02:39,971 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 11:02:39,973 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 11:02:39,974 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 11:02:39,981 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 11:02:39,983 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 11:02:39,984 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 11:02:45,578 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 295 chars.
+2025-07-19 11:02:45,583 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-19 11:03:06,265 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-19 11:03:06,267 - TradingAssistantNLPHandler - INFO - Processing Query: 'generate signals on doge coin', Extracted Coin Entity: 'ON', Detected Intent: 'generate_signal'
+2025-07-19 11:03:06,268 - TradingAssistantNLPHandler - INFO - Resolving 'ON' to a trading pair using CoinSymbolMapper...
+2025-07-19 11:03:06,268 - TradingAssistantNLPHandler - WARNING - Could not resolve 'ON' to a trading pair via mapper. This may cause issues with data fetching.
+2025-07-19 11:03:06,269 - TradingAssistantNLPHandler - INFO - Attempting to generate signal for trading pair: ON/USDT...
+2025-07-19 11:03:06,269 - TradingAssistantNLPHandler - ERROR - SignalGenerator class is not correctly loaded or is a dummy. Cannot generate signal.
+2025-07-19 11:03:06,270 - TradingAssistantNLPHandler - ERROR - Error encountered during Signal Generation (Module Load Error): ImportError - SignalGenerator module not loaded
+NoneType: None
+2025-07-19 13:06:26,511 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 13:06:26,543 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 13:06:26,543 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 13:06:26,544 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 13:06:26,551 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 13:06:26,552 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 13:06:26,552 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 13:06:28,576 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 320 chars.
+2025-07-19 13:06:28,581 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-19 13:06:53,160 - TradingAssistantNLPHandler - INFO - Extracted potential new symbol 'FOR' via regex (not in known map but plausible).
+2025-07-19 13:06:53,233 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-19 13:06:53,234 - TradingAssistantNLPHandler - INFO - Processing Query: 'generate trading signals for doge', Extracted Coin Entity: 'FOR', Detected Intent: 'generate_signal'
+2025-07-19 13:06:53,235 - TradingAssistantNLPHandler - INFO - Resolving 'FOR' to a trading pair using CoinSymbolMapper...
+2025-07-19 13:06:53,236 - TradingAssistantNLPHandler - INFO - Successfully mapped 'FOR' to 'FOR'.
+2025-07-19 13:06:53,236 - TradingAssistantNLPHandler - INFO - Attempting to generate signal for trading pair: FOR...
+2025-07-19 13:06:53,237 - TradingAssistantNLPHandler - ERROR - SignalGenerator class is not correctly loaded or is a dummy. Cannot generate signal.
+2025-07-19 13:06:53,238 - TradingAssistantNLPHandler - ERROR - Error encountered during Signal Generation (Module Load Error): ImportError - SignalGenerator module not loaded
+NoneType: None
+2025-07-19 13:31:44,891 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 13:31:44,952 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 13:31:44,953 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 13:31:44,955 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 13:31:44,964 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 13:31:44,965 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 13:31:44,967 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 13:31:47,352 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 310 chars.
+2025-07-19 13:31:47,356 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-19 13:32:09,035 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-19 13:32:09,036 - TradingAssistantNLPHandler - INFO - Processing Query: 'generate trading signal for doge', Extracted Coin Entity: 'SIGNAL', Detected Intent: 'generate_signal'
+2025-07-19 13:32:09,036 - TradingAssistantNLPHandler - INFO - Resolving 'SIGNAL' to a trading pair using CoinSymbolMapper...
+2025-07-19 13:32:09,037 - TradingAssistantNLPHandler - WARNING - Could not resolve 'SIGNAL' to a trading pair via mapper. This may cause issues with data fetching.
+2025-07-19 13:32:09,037 - TradingAssistantNLPHandler - INFO - Attempting to generate signal for trading pair: SIGNAL/USDT...
+2025-07-19 13:32:09,038 - TradingAssistantNLPHandler - ERROR - SignalGenerator class is not correctly loaded or is a dummy. Cannot generate signal.
+2025-07-19 13:32:09,038 - TradingAssistantNLPHandler - ERROR - Error encountered during Signal Generation (Module Load Error): ImportError - SignalGenerator module not loaded
+NoneType: None
+2025-07-19 13:36:48,236 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 13:36:48,269 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 13:36:48,270 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 13:36:48,271 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 13:36:48,275 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 13:36:48,276 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 13:36:48,276 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 13:36:51,213 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 319 chars.
+2025-07-19 13:36:51,218 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-19 13:37:01,471 - TradingAssistantNLPHandler - INFO - Extracted potential new symbol 'HOW' via regex (not in known map but plausible).
+2025-07-19 13:37:01,545 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-19 13:37:01,546 - TradingAssistantNLPHandler - INFO - Processing Query: 'how are u', Extracted Coin Entity: 'HOW', Detected Intent: 'unknown'
+2025-07-19 13:37:01,547 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'how are u'. Attempting dynamic LLM response.
+2025-07-19 13:37:03,461 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 237 chars.
+2025-07-19 13:37:24,322 - TradingAssistantNLPHandler - INFO - Extracted potential new symbol 'WANT' via regex (not in known map but plausible).
+2025-07-19 13:37:24,330 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-19 13:37:24,331 - TradingAssistantNLPHandler - INFO - Processing Query: 'i want trading signals on doge', Extracted Coin Entity: 'WANT', Detected Intent: 'generate_signal'
+2025-07-19 13:37:24,331 - TradingAssistantNLPHandler - INFO - Resolving 'WANT' to a trading pair using CoinSymbolMapper...
+2025-07-19 13:37:24,332 - TradingAssistantNLPHandler - WARNING - Could not resolve 'WANT' to a trading pair via mapper. This may cause issues with data fetching.
+2025-07-19 13:37:24,333 - TradingAssistantNLPHandler - INFO - Attempting to generate signal for trading pair: WANT/USDT...
+2025-07-19 13:37:24,334 - TradingAssistantNLPHandler - ERROR - SignalGenerator class is not correctly loaded or is a dummy. Cannot generate signal.
+2025-07-19 13:37:24,335 - TradingAssistantNLPHandler - ERROR - Error encountered during Signal Generation (Module Load Error): ImportError - SignalGenerator module not loaded
+NoneType: None
+2025-07-19 14:19:40,708 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 15:14:36,723 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 15:14:36,769 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 15:14:36,770 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 15:14:36,771 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 15:14:36,780 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 15:14:36,781 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 15:14:36,782 - TradingAssistantNLPHandler - INFO - Asynchronously fetching and caching symbols from 'binance'...
+2025-07-19 15:14:38,695 - TradingAssistantNLPHandler - WARNING - Could not dynamically fetch symbols due to an exchange/network error: binance GET https://api.binance.com/api/v3/exchangeInfo. Falling back to a basic list.
+2025-07-19 15:14:38,951 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 15:14:38,952 - TradingAssistantNLPHandler - CRITICAL - Failed to initialize or run the TradingAssistantNLPHandler: name 'datetime' is not defined
+Traceback (most recent call last):
+  File "<string>", line 1419, in main_interaction_loop
+  File "<string>", line 1381, in get_dynamic_welcome
+  File "<string>", line 659, in _call_llm_for_conversation
+NameError: name 'datetime' is not defined. Did you forget to import 'datetime'?
+2025-07-19 15:14:39,272 - ccxt.base.exchange - WARNING - binance requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-07-19 15:14:39,274 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0xe1591660>
+2025-07-19 16:59:32,511 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 16:59:32,549 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 16:59:32,550 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 16:59:32,551 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 16:59:32,556 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 16:59:32,557 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 16:59:32,558 - TradingAssistantNLPHandler - INFO - Asynchronously fetching and caching symbols from 'binance'...
+2025-07-19 16:59:34,426 - TradingAssistantNLPHandler - WARNING - Could not dynamically fetch symbols due to an exchange/network error: binance GET https://api.binance.com/api/v3/exchangeInfo. Falling back to a basic list.
+2025-07-19 16:59:34,679 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 16:59:34,680 - TradingAssistantNLPHandler - CRITICAL - Failed to initialize or run the TradingAssistantNLPHandler: name 'datetime' is not defined
+Traceback (most recent call last):
+  File "<string>", line 1419, in main_interaction_loop
+  File "<string>", line 1381, in get_dynamic_welcome
+  File "<string>", line 659, in _call_llm_for_conversation
+NameError: name 'datetime' is not defined. Did you forget to import 'datetime'?
+2025-07-19 16:59:34,971 - ccxt.base.exchange - WARNING - binance requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-07-19 16:59:34,972 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0xdefd1660>
+2025-07-19 17:13:35,696 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 17:13:35,751 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 17:13:35,752 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 17:13:35,753 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 17:13:35,758 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 17:13:35,759 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 17:13:35,760 - TradingAssistantNLPHandler - INFO - Asynchronously fetching and caching symbols from 'binance'...
+2025-07-19 17:13:37,538 - TradingAssistantNLPHandler - WARNING - Could not dynamically fetch symbols due to an exchange/network error: binance GET https://api.binance.com/api/v3/exchangeInfo. Falling back to a basic list.
+2025-07-19 17:13:37,793 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 17:13:37,794 - TradingAssistantNLPHandler - CRITICAL - Failed to initialize or run the TradingAssistantNLPHandler: name 'datetime' is not defined
+Traceback (most recent call last):
+  File "<string>", line 1419, in main_interaction_loop
+  File "<string>", line 1381, in get_dynamic_welcome
+  File "<string>", line 659, in _call_llm_for_conversation
+NameError: name 'datetime' is not defined. Did you forget to import 'datetime'?
+2025-07-19 17:13:38,111 - ccxt.base.exchange - WARNING - binance requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-07-19 17:13:38,113 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0xe3191660>
+2025-07-19 17:16:40,117 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-19 17:16:40,188 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-19 17:16:40,189 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-19 17:16:40,190 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-19 17:16:40,198 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-19 17:16:40,199 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-19 17:16:40,201 - TradingAssistantNLPHandler - INFO - Asynchronously fetching and caching symbols from 'binance'...
+2025-07-19 17:16:43,302 - TradingAssistantNLPHandler - WARNING - Could not dynamically fetch symbols due to an exchange/network error: binance GET https://api.binance.com/api/v3/exchangeInfo. Falling back to a basic list.
+2025-07-19 17:16:43,558 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-19 17:16:46,405 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 340 chars.
+2025-07-19 17:16:46,409 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-19 17:17:16,121 - TradingAssistantNLPHandler - INFO - Dynamically extracted known symbol 'DOGE' from cached exchange list.
+2025-07-19 17:17:16,149 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-19 17:17:16,149 - TradingAssistantNLPHandler - INFO - Processing Query: 'get the trading signal for doge', Extracted Coin Entity: 'DOGE', Detected Intent: 'generate_signal'
+2025-07-19 17:17:16,150 - TradingAssistantNLPHandler - INFO - Resolving 'DOGE' to a trading pair using CoinSymbolMapper...
+2025-07-19 17:17:16,150 - TradingAssistantNLPHandler - INFO - Successfully mapped 'DOGE' to 'DOGE'.
+2025-07-19 17:17:16,151 - TradingAssistantNLPHandler - INFO - Attempting to generate signal for trading pair: DOGE...
+2025-07-19 17:17:16,151 - TradingAssistantNLPHandler - ERROR - SignalGenerator class is not correctly loaded or is a dummy. Cannot generate signal.
+2025-07-19 17:17:16,152 - TradingAssistantNLPHandler - ERROR - Error encountered during Signal Generation (Module Load Error): ImportError - SignalGenerator module not loaded
+NoneType: None
+2025-07-20 05:34:56,910 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-20 05:34:56,945 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-20 05:34:56,947 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-20 05:34:56,947 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-20 05:34:56,951 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-20 05:34:56,952 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-20 05:34:56,952 - TradingAssistantNLPHandler - INFO - Asynchronously fetching and caching symbols from 'binance'...
+2025-07-20 05:34:58,716 - TradingAssistantNLPHandler - WARNING - Could not dynamically fetch symbols due to an exchange/network error: binance GET https://api.binance.com/api/v3/exchangeInfo. Falling back to a basic list.
+2025-07-20 05:34:58,973 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-20 05:35:01,159 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 288 chars.
+2025-07-20 05:35:01,163 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-20 05:36:11,771 - TradingAssistantNLPHandler - INFO - Dynamically extracted known symbol 'DOGE' from cached exchange list.
+2025-07-20 05:36:11,819 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-20 05:36:11,820 - TradingAssistantNLPHandler - INFO - Processing Query: 'generate signals for doge', Extracted Coin Entity: 'DOGE', Detected Intent: 'generate_signal'
+2025-07-20 05:36:11,821 - TradingAssistantNLPHandler - INFO - Resolving 'DOGE' to a trading pair using CoinSymbolMapper...
+2025-07-20 05:36:11,821 - TradingAssistantNLPHandler - INFO - Successfully mapped 'DOGE' to 'DOGE'.
+2025-07-20 05:36:11,822 - TradingAssistantNLPHandler - INFO - Attempting to generate signal for trading pair: DOGE...
+2025-07-20 05:36:11,823 - TradingAssistantNLPHandler - ERROR - SignalGenerator class is not correctly loaded or is a dummy. Cannot generate signal.
+2025-07-20 05:36:11,824 - TradingAssistantNLPHandler - ERROR - Error encountered during Signal Generation (Module Load Error): ImportError - SignalGenerator module not loaded
+NoneType: None
+2025-07-20 05:36:48,182 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-20 05:36:48,183 - TradingAssistantNLPHandler - INFO - Processing Query: 'get xlm trading signals', Extracted Coin Entity: 'DOGE', Detected Intent: 'generate_signal'
+2025-07-20 05:36:48,183 - TradingAssistantNLPHandler - INFO - Resolving 'DOGE' to a trading pair using CoinSymbolMapper...
+2025-07-20 05:36:48,184 - TradingAssistantNLPHandler - INFO - Successfully mapped 'DOGE' to 'DOGE'.
+2025-07-20 05:36:48,184 - TradingAssistantNLPHandler - INFO - Attempting to generate signal for trading pair: DOGE...
+2025-07-20 05:36:48,185 - TradingAssistantNLPHandler - ERROR - SignalGenerator class is not correctly loaded or is a dummy. Cannot generate signal.
+2025-07-20 05:36:48,185 - TradingAssistantNLPHandler - ERROR - Error encountered during Signal Generation (Module Load Error): ImportError - SignalGenerator module not loaded
+NoneType: None
+2025-07-20 05:54:42,755 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-20 05:54:42,792 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-20 05:54:42,793 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-20 05:54:42,794 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-20 05:54:42,800 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-20 05:54:42,801 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-20 05:54:42,802 - TradingAssistantNLPHandler - INFO - Asynchronously fetching and caching symbols from 'binance'...
+2025-07-20 05:54:44,723 - TradingAssistantNLPHandler - WARNING - Could not dynamically fetch symbols due to an exchange/network error: binance GET https://api.binance.com/api/v3/exchangeInfo. Falling back to a basic list.
+2025-07-20 05:54:44,980 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-20 05:54:46,694 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 307 chars.
+2025-07-20 05:54:46,697 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-20 05:55:26,537 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-20 05:55:26,538 - TradingAssistantNLPHandler - INFO - Processing Query: 'generate trading signals for XLM', Extracted Coin Entity: 'None', Detected Intent: 'generate_signal'
+2025-07-20 05:55:26,539 - TradingAssistantNLPHandler - ERROR - An unexpected error occurred in handle_query for intent 'generate_signal' with query 'generate trading signals for XLM': 'ModuleConfig' object is not subscriptable
+Traceback (most recent call last):
+  File "<string>", line 1310, in handle_query
+  File "<string>", line 517, in _get_symbol_for_module
+TypeError: 'ModuleConfig' object is not subscriptable
+2025-07-20 05:55:26,541 - TradingAssistantNLPHandler - ERROR - Error encountered during processing your request (intent: generate_signal): TypeError - 'ModuleConfig' object is not subscriptable
+Traceback (most recent call last):
+  File "<string>", line 1310, in handle_query
+  File "<string>", line 517, in _get_symbol_for_module
+TypeError: 'ModuleConfig' object is not subscriptable
+2025-07-20 05:56:33,600 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-20 05:56:33,600 - TradingAssistantNLPHandler - INFO - Processing Query: 'whats a type error', Extracted Coin Entity: 'None', Detected Intent: 'unknown'
+2025-07-20 05:56:33,601 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'whats a type error'. Attempting dynamic LLM response.
+2025-07-20 05:56:33,605 - ccxt.base.exchange - WARNING - binance requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-07-20 05:56:33,606 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0xdd60f660>
+2025-07-20 05:56:36,272 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 526 chars.
+2025-07-20 06:10:45,589 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-20 06:10:45,626 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-20 06:10:45,627 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-20 06:10:45,629 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-20 06:10:45,634 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-20 06:10:45,635 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-20 06:10:45,639 - TradingAssistantNLPHandler - INFO - Synchronously fetching and caching symbols from 'binance'...
+2025-07-20 06:11:00,206 - TradingAssistantNLPHandler - INFO - Successfully cached 779 unique symbols from 'binance'.
+2025-07-20 06:11:00,536 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-20 06:11:02,566 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 340 chars.
+2025-07-20 06:11:02,571 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-20 06:11:44,860 - TradingAssistantNLPHandler - INFO - Dynamically extracted known symbol 'THE' from cached exchange list.
+2025-07-20 06:11:44,888 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-20 06:11:44,889 - TradingAssistantNLPHandler - INFO - Processing Query: 'whats the trading signal for XLM', Extracted Coin Entity: 'THE', Detected Intent: 'generate_signal'
+2025-07-20 06:11:44,890 - TradingAssistantNLPHandler - INFO - Resolving 'THE' to a trading pair using CoinSymbolMapper...
+2025-07-20 06:11:44,890 - TradingAssistantNLPHandler - INFO - Successfully mapped 'THE' to 'THE'.
+2025-07-20 06:11:44,892 - TradingAssistantNLPHandler - INFO - Attempting to generate MTF signal for trading pair: THE...
+2025-07-20 06:11:44,892 - MarketData - INFO - MarketDataFetcher (SYNC Version) initialized.
+2025-07-20 06:11:44,893 - CombinedStrategies - INFO - CombinedStrategiesRunner (Sync) initialized for timeframe 1h.
+2025-07-20 06:11:44,894 - SignalGenerator - INFO - --- Starting Multi-Timeframe Signal Generation for THE ---
+2025-07-20 06:11:44,897 - SignalGenerator - INFO - 1/4: Analyzing 4h trend for THE...
+2025-07-20 06:11:59,405 - MarketData - INFO - Successfully initialized sync exchange for 'binance'.
+2025-07-20 06:11:59,406 - MarketData - INFO - Found active market: THE/USDT on binance.
+2025-07-20 06:11:59,407 - MarketData - INFO - Fetching OHLCV for 'THE/USDT' from 'binance'...
+2025-07-20 06:12:00,121 - MarketData - INFO - Sync fetch successful for THE/USDT on binance.
+2025-07-20 06:12:02,217 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 710 chars.
+2025-07-20 06:12:44,940 - TradingAssistantNLPHandler - INFO - Dynamically extracted known symbol 'FOR' from cached exchange list.
+2025-07-20 06:12:44,952 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'crypto_general' (from possible: ['crypto_general'])
+2025-07-20 06:12:44,953 - TradingAssistantNLPHandler - INFO - Processing Query: 'what about for bitcoin', Extracted Coin Entity: 'FOR', Detected Intent: 'crypto_general'
+2025-07-20 06:12:44,953 - TradingAssistantNLPHandler - INFO - Handling 'crypto_general' query dynamically using LLM.
+2025-07-20 06:12:49,872 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 851 chars.
+2025-07-20 15:45:32,145 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-20 15:45:32,181 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-20 15:45:32,182 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-20 15:45:32,183 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-20 15:45:32,188 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-20 15:45:32,189 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-20 15:45:32,192 - TradingAssistantNLPHandler - INFO - Synchronously fetching and caching symbols from 'binance'...
+2025-07-20 15:45:48,026 - TradingAssistantNLPHandler - INFO - Successfully cached 779 unique symbols from 'binance'.
+2025-07-20 15:45:48,399 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-20 15:45:50,756 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 398 chars.
+2025-07-20 15:45:50,760 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-20 15:46:05,279 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-20 15:46:05,280 - TradingAssistantNLPHandler - INFO - Processing Query: 'how are u', Extracted Coin Entity: 'None', Detected Intent: 'unknown'
+2025-07-20 15:46:05,281 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'how are u'. Attempting dynamic LLM response.
+2025-07-20 15:46:08,085 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 237 chars.
+2025-07-20 15:46:29,266 - TradingAssistantNLPHandler - INFO - Dynamically extracted known symbol 'THE' from cached exchange list.
+2025-07-20 15:46:29,272 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-20 15:46:29,272 - TradingAssistantNLPHandler - INFO - Processing Query: 'what is the distance from moon to earth', Extracted Coin Entity: 'THE', Detected Intent: 'unknown'
+2025-07-20 15:46:29,273 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'what is the distance from moon to earth'. Attempting dynamic LLM response.
+2025-07-20 15:46:32,408 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 546 chars.
+2025-07-20 15:46:49,377 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-20 15:46:49,378 - TradingAssistantNLPHandler - INFO - Processing Query: 'space', Extracted Coin Entity: 'THE', Detected Intent: 'unknown'
+2025-07-20 15:46:49,378 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'space'. Attempting dynamic LLM response.
+2025-07-20 15:46:51,311 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 439 chars.
+2025-07-20 15:47:26,531 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-20 15:47:26,532 - TradingAssistantNLPHandler - INFO - Processing Query: 'space travel and warp drives', Extracted Coin Entity: 'THE', Detected Intent: 'unknown'
+2025-07-20 15:47:26,532 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'space travel and warp drives'. Attempting dynamic LLM response.
+2025-07-20 15:47:29,387 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 980 chars.
+2025-07-20 15:48:22,595 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-20 15:48:22,596 - TradingAssistantNLPHandler - INFO - Processing Query: 'i think we can reach other star systems', Extracted Coin Entity: 'THE', Detected Intent: 'unknown'
+2025-07-20 15:48:22,596 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'i think we can reach other star systems'. Attempting dynamic LLM response.
+2025-07-20 15:48:24,969 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 1075 chars.
+2025-07-20 15:49:17,221 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-20 15:49:17,222 - TradingAssistantNLPHandler - INFO - Processing Query: 'what are antimatter drives', Extracted Coin Entity: 'THE', Detected Intent: 'unknown'
+2025-07-20 15:49:17,223 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'what are antimatter drives'. Attempting dynamic LLM response.
+2025-07-20 15:49:19,077 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 1657 chars.
+2025-07-20 15:51:18,529 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-20 15:51:18,530 - TradingAssistantNLPHandler - INFO - Processing Query: 'but if using anti matter will lead to annihilate matter when brought in contact,wont it cause a vast reduction of mattet millions of years to come', Extracted Coin Entity: 'THE', Detected Intent: 'unknown'
+2025-07-20 15:51:18,531 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'but if using anti matter will lead to annihilate matter when brought in contact,wont it cause a vast reduction of mattet millions of years to come'. Attempting dynamic LLM response.
+2025-07-20 15:51:21,370 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 1520 chars.
+2025-07-20 15:52:39,816 - TradingAssistantNLPHandler - INFO - Dynamically extracted known symbol 'FOR' from cached exchange list.
+2025-07-20 15:52:39,825 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-20 15:52:39,826 - TradingAssistantNLPHandler - INFO - Processing Query: 'generate signals for 1inch', Extracted Coin Entity: 'FOR', Detected Intent: 'generate_signal'
+2025-07-20 15:52:39,826 - TradingAssistantNLPHandler - INFO - Resolving 'FOR' to a trading pair using CoinSymbolMapper...
+2025-07-20 15:52:39,827 - TradingAssistantNLPHandler - INFO - Successfully mapped 'FOR' to 'FOR'.
+2025-07-20 15:52:39,828 - TradingAssistantNLPHandler - INFO - Attempting to generate MTF signal for trading pair: FOR...
+2025-07-20 15:52:39,829 - MarketData - INFO - MarketDataFetcher (SYNC Version) initialized.
+2025-07-20 15:52:39,830 - CombinedStrategies - INFO - CombinedStrategiesRunner (Sync) initialized for timeframe 1h.
+2025-07-20 15:52:39,831 - SignalGenerator - INFO - --- Starting Multi-Timeframe Signal Generation for FOR ---
+2025-07-20 15:52:39,841 - SignalGenerator - INFO - 1/4: Analyzing 4h trend for FOR...
+2025-07-20 15:52:56,400 - MarketData - INFO - Successfully initialized sync exchange for 'binance'.
+2025-07-20 15:52:56,401 - MarketData - INFO - Found active market: FOR/USDT on binance.
+2025-07-20 15:52:56,401 - MarketData - INFO - Fetching OHLCV for 'FOR/USDT' from 'binance'...
+2025-07-20 15:52:57,074 - MarketData - INFO - Sync fetch successful for FOR/USDT on binance.
+2025-07-20 15:52:57,153 - SignalGenerator - INFO - 2/4: Analyzing 1h timeframe for entry signal on FOR...
+2025-07-20 15:52:57,153 - CombinedStrategies - INFO - Running all strategies for FOR...
+2025-07-20 15:52:57,154 - MarketData - INFO - Found active market: FOR/USDT on binance.
+2025-07-20 15:52:57,154 - MarketData - INFO - Fetching OHLCV for 'FOR/USDT' from 'binance'...
+2025-07-20 15:52:58,197 - MarketData - INFO - Sync fetch successful for FOR/USDT on binance.
+2025-07-20 15:52:58,220 - TechnicalAnalysis - INFO - TechnicalAnalyzer initialized. Strategy includes 23 indicator configurations.
+2025-07-20 15:52:59,578 - TechnicalAnalysis - INFO - Successfully generated TA indicators. Added 43 columns.
+2025-07-20 15:52:59,627 - CombinedStrategies - INFO - Finished running strategies for FOR.
+2025-07-20 15:52:59,635 - MarketData - INFO - Found active market: FOR/USDT on binance.
+2025-07-20 15:52:59,636 - MarketData - INFO - Fetching OHLCV for 'FOR/USDT' from 'binance'...
+2025-07-20 15:53:00,437 - MarketData - INFO - Sync fetch successful for FOR/USDT on binance.
+2025-07-20 15:53:00,455 - TechnicalAnalysis - INFO - TechnicalAnalyzer initialized. Strategy includes 23 indicator configurations.
+2025-07-20 15:53:01,373 - TechnicalAnalysis - INFO - Successfully generated TA indicators. Added 43 columns.
+2025-07-20 15:53:01,787 - PatternAnalyzer - INFO - Pattern Analysis Result: Sentiment=Bullish, Bull=2, Bear=1, Latest=[]
+2025-07-20 15:53:01,794 - SignalGenerator - INFO - Signal alignment PASSED: 4h Trend (Downtrend) and 1h Signal (SHORT) match.
+2025-07-20 15:53:01,795 - SignalGenerator - INFO - 3/4: Seeking 15m confirmation for a short on FOR...
+2025-07-20 15:53:01,795 - MarketData - INFO - Found active market: FOR/USDT on binance.
+2025-07-20 15:53:01,796 - MarketData - INFO - Fetching OHLCV for 'FOR/USDT' from 'binance'...
+2025-07-20 15:53:02,247 - MarketData - INFO - Sync fetch successful for FOR/USDT on binance.
+2025-07-20 15:53:02,269 - SignalGenerator - INFO - 4/4: SUCCESS! Signal generation process complete for FOR.
+2025-07-20 15:53:02,273 - SignalGenerator - INFO - State Update: Added new active signal for FOR.
+2025-07-20 15:53:07,353 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 831 chars.
+2025-07-20 16:07:36,100 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-20 16:07:36,137 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-20 16:07:36,138 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-20 16:07:36,139 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-20 16:07:36,144 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-20 16:07:36,145 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-20 16:07:36,148 - TradingAssistantNLPHandler - INFO - Synchronously fetching and caching symbols from 'binance' for verification...
+2025-07-20 16:07:51,025 - TradingAssistantNLPHandler - INFO - Successfully cached 779 unique symbols from 'binance'.
+2025-07-20 16:07:51,404 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-20 16:07:54,301 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 370 chars.
+2025-07-20 16:07:54,303 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-20 16:08:23,915 - TradingAssistantNLPHandler - INFO - Attempting to extract symbol from 'generate signals on 1inch' using LLM...
+2025-07-20 16:08:26,321 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 5 chars.
+2025-07-20 16:08:26,324 - TradingAssistantNLPHandler - INFO - LLM extracted symbol '1INCH' and it was successfully validated against the cached exchange list.
+2025-07-20 16:08:26,359 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'generate_signal' (from possible: ['generate_signal'])
+2025-07-20 16:08:26,360 - TradingAssistantNLPHandler - INFO - Processing Query: 'generate signals on 1inch', Extracted Coin Entity: '1INCH', Detected Intent: 'generate_signal'
+2025-07-20 16:08:26,361 - TradingAssistantNLPHandler - INFO - Resolving '1INCH' to a trading pair using CoinSymbolMapper...
+2025-07-20 16:08:26,361 - TradingAssistantNLPHandler - INFO - Successfully mapped '1INCH' to '1INCH'.
+2025-07-20 16:08:26,362 - TradingAssistantNLPHandler - INFO - Attempting to generate MTF signal for trading pair: 1INCH...
+2025-07-20 16:08:26,363 - MarketData - INFO - MarketDataFetcher (SYNC Version) initialized.
+2025-07-20 16:08:26,364 - CombinedStrategies - INFO - CombinedStrategiesRunner (Sync) initialized for timeframe 1h.
+2025-07-20 16:08:26,365 - SignalGenerator - INFO - --- Starting Multi-Timeframe Signal Generation for 1INCH ---
+2025-07-20 16:08:26,369 - SignalGenerator - INFO - 1/4: Analyzing 4h trend for 1INCH...
+2025-07-20 16:08:45,683 - MarketData - INFO - Successfully initialized sync exchange for 'binance'.
+2025-07-20 16:08:45,684 - MarketData - INFO - Found active market: 1INCH/USDT on binance.
+2025-07-20 16:08:45,684 - MarketData - INFO - Fetching OHLCV for '1INCH/USDT' from 'binance'...
+2025-07-20 16:08:46,446 - MarketData - INFO - Sync fetch successful for 1INCH/USDT on binance.
+2025-07-20 16:08:50,085 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 756 chars.
+2025-07-20 16:09:23,237 - TradingAssistantNLPHandler - INFO - Attempting to extract symbol from 'run technical analysis on 1inch' using LLM...
+2025-07-20 16:09:25,193 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 5 chars.
+2025-07-20 16:09:25,197 - TradingAssistantNLPHandler - INFO - LLM extracted symbol '1INCH' and it was successfully validated against the cached exchange list.
+2025-07-20 16:09:25,209 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'analyze_indicators' (from possible: ['analyze_indicators'])
+2025-07-20 16:09:25,210 - TradingAssistantNLPHandler - INFO - Processing Query: 'run technical analysis on 1inch', Extracted Coin Entity: '1INCH', Detected Intent: 'analyze_indicators'
+2025-07-20 16:09:25,211 - TradingAssistantNLPHandler - INFO - Resolving '1INCH' to a trading pair using CoinSymbolMapper...
+2025-07-20 16:09:25,213 - TradingAssistantNLPHandler - INFO - Successfully mapped '1INCH' to '1INCH'.
+2025-07-20 16:09:25,214 - TradingAssistantNLPHandler - INFO - Analyzing technical indicators for trading pair: 1INCH...
+2025-07-20 16:09:25,215 - TradingAssistantNLPHandler - ERROR - Error encountered during Technical Indicator Analysis for 1INCH: TypeError - MarketDataFetcher.__init__() got an unexpected keyword argument 'exchange_name'
+Traceback (most recent call last):
+  File "<string>", line 813, in _handle_analyze_indicators
+TypeError: MarketDataFetcher.__init__() got an unexpected keyword argument 'exchange_name'
+2025-07-20 16:10:16,624 - TradingAssistantNLPHandler - INFO - Attempting to extract symbol from 'run pattern analysis on 1inch' using LLM...
+2025-07-20 16:10:18,626 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 5 chars.
+2025-07-20 16:10:18,630 - TradingAssistantNLPHandler - INFO - LLM extracted symbol '1INCH' and it was successfully validated against the cached exchange list.
+2025-07-20 16:10:18,640 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'analyze_patterns' (from possible: ['analyze_patterns'])
+2025-07-20 16:10:18,641 - TradingAssistantNLPHandler - INFO - Processing Query: 'run pattern analysis on 1inch', Extracted Coin Entity: '1INCH', Detected Intent: 'analyze_patterns'
+2025-07-20 16:10:18,641 - TradingAssistantNLPHandler - INFO - Resolving '1INCH' to a trading pair using CoinSymbolMapper...
+2025-07-20 16:10:18,642 - TradingAssistantNLPHandler - INFO - Successfully mapped '1INCH' to '1INCH'.
+2025-07-20 16:10:18,643 - TradingAssistantNLPHandler - INFO - Analyzing candlestick patterns for trading pair: 1INCH...
+2025-07-20 16:10:18,644 - TradingAssistantNLPHandler - ERROR - Error encountered during Candlestick Pattern Analysis for 1INCH: TypeError - MarketDataFetcher.__init__() got an unexpected keyword argument 'exchange_name'
+Traceback (most recent call last):
+  File "<string>", line 878, in _handle_analyze_patterns
+TypeError: MarketDataFetcher.__init__() got an unexpected keyword argument 'exchange_name'
+2025-07-20 16:23:23,595 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-20 16:23:23,628 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-20 16:23:23,630 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-20 16:23:23,630 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-20 16:23:23,634 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-20 16:23:23,635 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-20 16:23:23,637 - TradingAssistantNLPHandler - INFO - Synchronously fetching and caching symbols from 'binance' for verification...
+2025-07-20 16:23:39,932 - TradingAssistantNLPHandler - INFO - Successfully cached 779 unique symbols from 'binance'.
+2025-07-20 16:23:40,306 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-20 16:23:43,742 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 433 chars.
+2025-07-20 16:23:43,746 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-20 16:24:13,605 - TradingAssistantNLPHandler - INFO - Attempting to extract symbol from 'run technical analysis on doge' using LLM...
+2025-07-20 16:24:15,260 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 4 chars.
+2025-07-20 16:24:15,264 - TradingAssistantNLPHandler - INFO - LLM extracted symbol 'DOGE' and it was successfully validated against the cached exchange list.
+2025-07-20 16:24:15,329 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'analyze_indicators' (from possible: ['analyze_indicators'])
+2025-07-20 16:24:15,330 - TradingAssistantNLPHandler - INFO - Processing Query: 'run technical analysis on doge', Extracted Coin Entity: 'DOGE', Detected Intent: 'analyze_indicators'
+2025-07-20 16:24:15,332 - TradingAssistantNLPHandler - INFO - Resolving 'DOGE' to a trading pair using CoinSymbolMapper...
+2025-07-20 16:24:15,332 - TradingAssistantNLPHandler - INFO - Successfully mapped 'DOGE' to 'DOGE'.
+2025-07-20 16:24:15,333 - TradingAssistantNLPHandler - INFO - Analyzing technical indicators for trading pair: DOGE...
+2025-07-20 16:24:15,334 - MarketData - INFO - MarketDataFetcher (SYNC Version) initialized.
+2025-07-20 16:24:31,218 - MarketData - INFO - Successfully initialized sync exchange for 'binance'.
+2025-07-20 16:24:31,219 - MarketData - INFO - Found active market: DOGE/USDT on binance.
+2025-07-20 16:24:31,220 - MarketData - INFO - Fetching OHLCV for 'DOGE/USDT' from 'binance'...
+2025-07-20 16:24:31,853 - MarketData - INFO - Sync fetch successful for DOGE/USDT on binance.
+2025-07-20 16:24:31,883 - TechnicalAnalysis - INFO - TechnicalAnalyzer initialized. Strategy includes 23 indicator configurations.
+2025-07-20 16:24:32,988 - TechnicalAnalysis - INFO - Successfully generated TA indicators. Added 43 columns.
+2025-07-20 16:24:35,272 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 914 chars.
+2025-07-20 16:25:26,577 - TradingAssistantNLPHandler - INFO - Attempting to extract symbol from 'run pattern analysis on doge' using LLM...
+2025-07-20 16:25:27,828 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 4 chars.
+2025-07-20 16:25:27,832 - TradingAssistantNLPHandler - INFO - LLM extracted symbol 'DOGE' and it was successfully validated against the cached exchange list.
+2025-07-20 16:25:27,844 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'analyze_patterns' (from possible: ['analyze_patterns'])
+2025-07-20 16:25:27,845 - TradingAssistantNLPHandler - INFO - Processing Query: 'run pattern analysis on doge', Extracted Coin Entity: 'DOGE', Detected Intent: 'analyze_patterns'
+2025-07-20 16:25:27,846 - TradingAssistantNLPHandler - INFO - Resolving 'DOGE' to a trading pair using CoinSymbolMapper...
+2025-07-20 16:25:27,847 - TradingAssistantNLPHandler - INFO - Successfully mapped 'DOGE' to 'DOGE'.
+2025-07-20 16:25:27,849 - TradingAssistantNLPHandler - INFO - Analyzing candlestick patterns for trading pair: DOGE...
+2025-07-20 16:25:27,850 - MarketData - INFO - MarketDataFetcher (SYNC Version) initialized.
+2025-07-20 16:25:44,082 - MarketData - INFO - Successfully initialized sync exchange for 'binance'.
+2025-07-20 16:25:44,082 - MarketData - INFO - Found active market: DOGE/USDT on binance.
+2025-07-20 16:25:44,083 - MarketData - INFO - Fetching OHLCV for 'DOGE/USDT' from 'binance'...
+2025-07-20 16:25:44,896 - MarketData - INFO - Sync fetch successful for DOGE/USDT on binance.
+2025-07-20 16:25:45,364 - PatternAnalyzer - INFO - Pattern Analysis Result: Sentiment=Bearish, Bull=2, Bear=3, Latest=[]
+2025-07-20 16:25:49,071 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 414 chars.
+2025-07-21 14:33:23,527 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-21 14:33:23,555 - ChatServer - INFO - Serving images from '/storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/src/interface' on http://0.0.0.0:8001
+2025-07-21 14:33:23,657 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-07-21 14:33:23,658 - ChatServer - INFO - WebSocket server started on ws://0.0.0.0:8000
+2025-07-22 19:50:42,562 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-22 19:50:42,628 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-22 19:50:42,629 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-22 19:50:42,630 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-22 19:50:42,638 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-22 19:50:42,640 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-22 19:50:42,644 - TradingAssistantNLPHandler - INFO - Synchronously fetching and caching symbols from 'binance' for verification...
+2025-07-22 19:51:05,232 - TradingAssistantNLPHandler - INFO - Successfully cached 780 unique symbols from 'binance'.
+2025-07-22 19:51:05,925 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-22 19:51:07,965 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 445 chars.
+2025-07-22 19:51:07,970 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-22 19:51:50,921 - TradingAssistantNLPHandler - INFO - Attempting to extract symbol from 'what is the price prediction for solana' using LLM...
+2025-07-22 19:51:52,368 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 3 chars.
+2025-07-22 19:51:52,373 - TradingAssistantNLPHandler - INFO - LLM extracted symbol 'SOL' and it was successfully validated against the cached exchange list.
+2025-07-22 19:51:52,403 - TradingAssistantNLPHandler - INFO - Intent detected via keywords: 'predict_price' (from possible: ['predict_price', 'fetch_market_data'])
+2025-07-22 19:51:52,404 - TradingAssistantNLPHandler - INFO - Processing Query: 'what is the price prediction for solana', Extracted Coin Entity: 'SOL', Detected Intent: 'predict_price'
+2025-07-22 19:51:52,404 - TradingAssistantNLPHandler - INFO - Resolving 'SOL' to a trading pair using CoinSymbolMapper...
+2025-07-22 19:51:52,405 - TradingAssistantNLPHandler - INFO - Successfully mapped 'SOL' to 'SOL'.
+2025-07-22 19:51:54,271 - TradingAssistantNLPHandler - INFO - Initiating price prediction pipeline for SOL...
+2025-07-22 19:51:54,272 - MarketData - INFO - MarketDataFetcher (SYNC Version) initialized.
+2025-07-22 19:52:18,204 - MarketData - INFO - Successfully initialized sync exchange for 'binance'.
+2025-07-22 19:52:18,206 - MarketData - INFO - Found active market: SOL/USDT on binance.
+2025-07-22 19:52:18,207 - MarketData - INFO - Fetching OHLCV for 'SOL/USDT' from 'binance'...
+2025-07-22 19:52:19,079 - MarketData - INFO - Sync fetch successful for SOL/USDT on binance.
+2025-07-22 19:52:19,111 - TechnicalAnalysis - INFO - TechnicalAnalyzer initialized. Strategy includes 23 indicator configurations.
+2025-07-22 19:52:20,326 - TechnicalAnalysis - INFO - Successfully generated TA indicators. Added 43 columns.
+2025-07-22 19:52:20,913 - PatternAnalyzer - INFO - Pattern Analysis Result: Sentiment=Bullish, Bull=3, Bear=1, Latest=[]
+2025-07-22 19:52:20,915 - MarketData - INFO - MarketDataFetcher (SYNC Version) initialized.
+2025-07-22 19:52:20,916 - CombinedStrategies - INFO - CombinedStrategiesRunner (Sync) initialized for timeframe 1h.
+2025-07-22 19:52:20,917 - CombinedStrategies - INFO - Running all strategies for SOL...
+2025-07-22 19:52:20,918 - CombinedStrategies - INFO - Using pre-fetched DataFrame for SOL.
+2025-07-22 19:52:20,938 - TechnicalAnalysis - INFO - TechnicalAnalyzer initialized. Strategy includes 23 indicator configurations.
+2025-07-22 19:52:22,025 - TechnicalAnalysis - INFO - Successfully generated TA indicators. Added 0 columns.
+2025-07-22 19:52:22,074 - CombinedStrategies - INFO - Finished running strategies for SOL.
+2025-07-22 19:52:22,093 - ImageIO - INFO - Hugging Face API key loaded from credentials file.
+2025-07-22 19:52:22,095 - ImageIO - INFO - ✅ ImageIO initialized (Stable Diffusion XL for image generation).
+2025-07-22 19:52:22,102 - TradingAssistantNLPHandler - INFO - Generating prediction image for SOL at /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/generated_media/predictions/SOL_Bullish.png...
+2025-07-22 19:52:22,103 - ImageIO - INFO - 🎨 Generating image with prompt: 'Epic digital painting of the cryptocurrency 'SOL' ...'
+2025-07-22 19:52:34,443 - ImageIO - INFO - ✅ Image saved: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/generated_media/predictions/SOL_Bullish.png
+2025-07-22 19:52:34,448 - TradingAssistantNLPHandler - INFO - Image generation successful. Path: generated_media/predictions/SOL_Bullish.png
+2025-07-24 15:39:03,604 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-24 15:39:03,624 - ChatServer - INFO - Initializing Global NLP Handler for HTTP API...
+2025-07-24 16:32:28,200 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-24 16:32:28,238 - ChatServer - INFO - Initializing Global NLP Handler for HTTP API...
+2025-07-24 16:40:01,149 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-24 16:40:01,178 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-24 16:40:01,179 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-24 16:40:01,180 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-24 16:40:01,186 - TradingAssistantNLPHandler - INFO - Loaded 50 items from conversation history file: /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/conversation_history.json
+2025-07-24 16:40:01,186 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized.
+2025-07-24 16:40:01,189 - TradingAssistantNLPHandler - INFO - Synchronously fetching and caching symbols from 'binance' for verification...
+2025-07-24 16:47:16,710 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-24 16:47:16,731 - ChatServer - INFO - Initializing Global NLP Handler for HTTP API...
+2025-07-24 17:14:21,056 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-24 17:14:21,080 - ChatServer - INFO - Starting servers. NLP Handlers will be created on-demand per user.
+2025-07-24 17:14:21,084 - ChatServer - INFO - Serving images and API from '/storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal' on http://0.0.0.0:8001
+2025-07-24 17:14:21,183 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-07-24 17:14:21,185 - ChatServer - INFO - WebSocket server started on ws://0.0.0.0:8000
+2025-07-25 04:48:01,013 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-25 04:48:01,036 - ChatServer - INFO - Starting servers. NLP Handlers will be created on-demand per user session.
+2025-07-25 04:48:01,042 - ChatServer - INFO - Serving images and API from '/storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal' on http://0.0.0.0:8001
+2025-07-25 04:48:01,158 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-07-25 04:48:01,159 - ChatServer - INFO - WebSocket server started on ws://0.0.0.0:8000
+2025-07-25 04:49:06,021 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-25 04:49:06,075 - ChatServer - INFO - Starting servers. NLP Handlers will be created on-demand per user session.
+2025-07-25 04:49:06,091 - ChatServer - INFO - Serving images and API from '/storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal' on http://0.0.0.0:8001
+2025-07-25 04:49:06,226 - websockets.server - INFO - server listening on 0.0.0.0:8000
+2025-07-25 04:49:06,227 - ChatServer - INFO - WebSocket server started on ws://0.0.0.0:8000
+2025-07-25 04:50:16,244 - TradingAssistantNLPHandler - INFO - Logger (re)initialized with INFO level and file handler in NLP Handler.
+2025-07-25 04:50:16,303 - TradingAssistantNLPHandler - INFO - Loaded OpenRouter API key from credentials.yaml.
+2025-07-25 04:50:16,304 - TradingAssistantNLPHandler - INFO - Successfully loaded configurations from credentials.yaml.
+2025-07-25 04:50:16,305 - TradingAssistantNLPHandler - INFO - OpenRouter client configured for model: meta-llama/llama-4-maverick
+2025-07-25 04:50:16,313 - TradingAssistantNLPHandler - INFO - No conversation history file found for user 999 at /storage/emulated/0/Android/data/ru.iiec.pydroid3/files/cryptsignal/data/user_histories/conversation_history_999.json. Starting fresh.
+2025-07-25 04:50:16,314 - TradingAssistantNLPHandler - INFO - TradingAssistantNLPHandler initialized for User ID: 999.
+2025-07-25 04:50:16,329 - TradingAssistantNLPHandler - INFO - Synchronously fetching and caching symbols from 'binance' for verification...
+2025-07-25 04:50:41,669 - TradingAssistantNLPHandler - INFO - Successfully cached 780 unique symbols from 'binance'.
+2025-07-25 04:50:42,411 - TradingAssistantNLPHandler - INFO - Attempting to generate a dynamic welcome message using LLM...
+2025-07-25 04:50:45,547 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 305 chars.
+2025-07-25 04:50:45,552 - TradingAssistantNLPHandler - INFO - Dynamic welcome message generated successfully by LLM.
+2025-07-25 04:51:18,990 - TradingAssistantNLPHandler - INFO - Attempting to extract symbol from 'guess what? alot of people want to meet you?' using LLM...
+2025-07-25 04:51:20,212 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 4 chars.
+2025-07-25 04:51:20,216 - TradingAssistantNLPHandler - INFO - LLM indicated no symbol found in the query.
+2025-07-25 04:51:20,336 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-25 04:51:20,337 - TradingAssistantNLPHandler - INFO - Processing Query: 'guess what? alot of people want to meet you?', Extracted Coin Entity: 'None', Detected Intent: 'unknown' for User ID: 999
+2025-07-25 04:51:20,339 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'guess what? alot of people want to meet you?'. Attempting dynamic LLM response.
+2025-07-25 04:51:23,656 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 334 chars.
+2025-07-25 04:51:49,613 - TradingAssistantNLPHandler - INFO - Attempting to extract symbol from 'ok then,you will meet them soon' using LLM...
+2025-07-25 04:51:51,246 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 4 chars.
+2025-07-25 04:51:51,251 - TradingAssistantNLPHandler - INFO - LLM indicated no symbol found in the query.
+2025-07-25 04:51:51,262 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-25 04:51:51,263 - TradingAssistantNLPHandler - INFO - Processing Query: 'ok then,you will meet them soon', Extracted Coin Entity: 'None', Detected Intent: 'unknown' for User ID: 999
+2025-07-25 04:51:51,264 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'ok then,you will meet them soon'. Attempting dynamic LLM response.
+2025-07-25 04:51:53,289 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 413 chars.
+2025-07-25 04:52:17,874 - TradingAssistantNLPHandler - INFO - Attempting to extract symbol from 'no,it will be like a digital meet up' using LLM...
+2025-07-25 04:52:19,641 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 4 chars.
+2025-07-25 04:52:19,645 - TradingAssistantNLPHandler - INFO - LLM indicated no symbol found in the query.
+2025-07-25 04:52:19,657 - TradingAssistantNLPHandler - INFO - No keyword match for intent, and LLM intent classification is disabled or did not yield a result. Intent remains 'unknown'.
+2025-07-25 04:52:19,658 - TradingAssistantNLPHandler - INFO - Processing Query: 'no,it will be like a digital meet up', Extracted Coin Entity: 'None', Detected Intent: 'unknown' for User ID: 999
+2025-07-25 04:52:19,659 - TradingAssistantNLPHandler - WARNING - Handling 'unknown' intent for query: 'no,it will be like a digital meet up'. Attempting dynamic LLM response.
+2025-07-25 04:52:22,199 - TradingAssistantNLPHandler - INFO - LLM response successfully received. Length: 376 chars.
