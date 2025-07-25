@@ -1,0 +1,19 @@
+{
+    "report_timestamp_utc": "2025-05-03T07:28:04.379428",
+    "trading_symbol": "SOL/USDT",
+    "exchange": "binance",
+    "timeframe": "1h",
+    "anomaly_detected": false,
+    "anomaly_score": -0.75,
+    "contributing_factors": {
+        "Technical": "Score: -0.5. Factors: MACD Hist Neg",
+        "Pattern": "Score: -2.0. Factors: Bearish Engulfing (Bear); Tweezer Top (Bear)",
+        "OnChain": "Score: 1.5. Factors: Overall: Bullish; Minor Net Flow ($247,161)"
+    },
+    "data_summary": {
+        "latest_technical_timestamp": "2025-05-03T07:00:00",
+        "onchain_sentiment": "Bullish",
+        "onchain_net_flow_usd": 247161.4335435651,
+        "onchain_whale_txs": 0
+    }
+}
