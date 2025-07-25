@@ -1,0 +1,1515 @@
+{
+  "snapshot_timestamp_utc": "2025-05-31T21:29:22.141885",
+  "symbol_analyzed": "BTC",
+  "average_social_sentiment_score": 0.0,
+  "overall_social_sentiment_category": "neutral",
+  "fear_greed_index": {
+    "value": 50,
+    "classification": "Neutral",
+    "timestamp_unix": 1748649600,
+    "datetime": "2025-05-31T00:00:00"
+  },
+  "dxy_strength_score": 27.45,
+  "macro_economic_news": [
+    {
+      "title": "Single-use vapes banned from 1 June 2025",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658181",
+      "sentiment": -0.3,
+      "sentiment_score": -0.3,
+      "sentiment_category": "mini bearish",
+      "sentiment_analysis_details": {
+        "score": -0.3,
+        "category": "mini bearish",
+        "error": null
+      }
+    },
+    {
+      "title": "Homes fit for heroes with extra £1.5 billion for forces housing through upcoming Strategic Defence Review",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658317",
+      "sentiment": 0.8,
+      "sentiment_score": 0.8,
+      "sentiment_category": "bullish",
+      "sentiment_analysis_details": {
+        "score": 0.8,
+        "category": "bullish",
+        "error": null
+      }
+    },
+    {
+      "title": "Yorkshire Water fined after pumping station sewage incident",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658387",
+      "sentiment": -0.8,
+      "sentiment_score": -0.8,
+      "sentiment_category": "bearish",
+      "sentiment_analysis_details": {
+        "score": -0.8,
+        "category": "bearish",
+        "error": null
+      }
+    },
+    {
+      "title": "Bird flu (avian influenza): latest situation in England",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658453",
+      "sentiment": -0.2,
+      "sentiment_score": -0.2,
+      "sentiment_category": "mini bearish",
+      "sentiment_analysis_details": {
+        "score": -0.2,
+        "category": "mini bearish",
+        "error": null
+      }
+    },
+    {
+      "title": "Government completes exit from NatWest",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658520",
+      "sentiment": 0.5,
+      "sentiment_score": 0.5,
+      "sentiment_category": "mini bullish",
+      "sentiment_analysis_details": {
+        "score": 0.5,
+        "category": "mini bullish",
+        "error": null
+      }
+    },
+    {
+      "title": "The onus is on Russia and Putin to show they are serious about peace: UK statement at the UN Security Council",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658585",
+      "sentiment": -0.4,
+      "sentiment_score": -0.4,
+      "sentiment_category": "mini bearish",
+      "sentiment_analysis_details": {
+        "score": -0.4,
+        "category": "mini bearish",
+        "error": null
+      }
+    },
+    {
+      "title": "How to submit applications and complaints to the CAC",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658650",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": null
+      }
+    },
+    {
+      "title": "Insolvency Service publishes new Individual Voluntary Arrangement protocol to help protect people in debt",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658715",
+      "sentiment": 0.4,
+      "sentiment_score": 0.4,
+      "sentiment_category": "mini bullish",
+      "sentiment_analysis_details": {
+        "score": 0.4,
+        "category": "mini bullish",
+        "error": null
+      }
+    },
+    {
+      "title": "Richard Hughes nominated for reappointment as Chair of the Office for Budget Responsibility",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658779",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": null
+      }
+    },
+    {
+      "title": "New police dog facility opens to boost real-world readiness",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "global_government",
+      "scraped_at": "2025-05-31T21:23:35.658846",
+      "sentiment": 0.5,
+      "sentiment_score": 0.5,
+      "sentiment_category": "mini bullish",
+      "sentiment_analysis_details": {
+        "score": 0.5,
+        "category": "mini bullish",
+        "error": null
+      }
+    },
+    {
+      "topic": "global economy",
+      "title": "Global economy, world economy | TheGlobalEconomy.com",
+      "url": "https://www.theglobaleconomy.com/",
+      "snippet": "Information on the global economy with data on over 400 indicators, updated regularly, for over 200 countries as well as interactive tools, articles, ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:00.883782",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": null
+      }
+    },
+    {
+      "topic": "global economy",
+      "title": "World economy",
+      "url": "https://en.wikipedia.org/wiki/World_economy",
+      "snippet": "The world economy or global economy is the economy of all humans in the world, referring to the global economic system.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:00.883897",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": null
+      }
+    },
+    {
+      "topic": "global economy",
+      "title": "Global Economy",
+      "url": "https://www.ft.com/global-economy",
+      "snippet": "News and top stories on the state of the global economy. The latest economic data, reports and updates from countries around the world, on jobs, trade, ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:00.883963",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": null
+      }
+    },
+    {
+      "topic": "global economy",
+      "title": "How does the global economy work?",
+      "url": "https://www.edology.com/blog/accounting-finance/how-does-global-economy-work",
+      "snippet": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. These economic activities can have ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:00.884025",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "global economy",
+      "title": "The Global Economy Enters a New Era",
+      "url": "https://www.imf.org/en/Blogs/Articles/2025/04/22/the-global-economy-enters-a-new-era",
+      "snippet": "Risks to the global economy have increased, and worsening trade tensions could further depress growth. Financial conditions could tighten ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:00.884088",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "global economy",
+      "title": "Charting the Global Economy: US GDP Falls on Larger ...",
+      "url": "https://finance.yahoo.com/news/charting-global-economy-us-gdp-090000684.html",
+      "snippet": "The economy's primary growth engine — consumer spending — advanced 1.2%, down from an initial estimate of 1.8% and the weakest pace in almost ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:00.884298",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "global economy",
+      "title": "The World Economic Forum",
+      "url": "https://www.weforum.org/",
+      "snippet": "Our mission: We bring together government, businesses and civil society to improve the state of the world.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:00.884363",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "global economy",
+      "title": "World Economic Outlook (April 2025) - Real GDP growth",
+      "url": "https://www.imf.org/external/datamapper/index.php",
+      "snippet": "Real GDP growth · GDP, current prices. Billions of U.S. dollars. 46.93. thousand. Created with Highcharts 6.1.4. 2025. Emerging market and developing economies ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:00.884427",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "geopolitical tensions",
+      "title": "Top Geopolitical Risks of 2025",
+      "url": "https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk",
+      "snippet": "The world is changing. Geopolitical fragmentation is being fueled by COVID-19, the war in Ukraine, U.S.-China relations and more.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:06.337578",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "geopolitical tensions",
+      "title": "How are geopolitical risks affecting the world economy?",
+      "url": "https://www.economicsobservatory.com/how-are-geopolitical-risks-affecting-the-world-economy",
+      "snippet": "Geopolitical risks posed by elections, polarisation and conflicts within and between states have inevitable knock-on effects on the economy, both globally and ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:06.337648",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "geopolitical tensions",
+      "title": "How Geopolitical Risks Influence the Global Community",
+      "url": "https://geopoliticalfutures.com/risk/",
+      "snippet": "Geopolitical risks are defined as the potential political, economic, military, and social risks that can emerge from a nation's involvement in international ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:06.337681",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "geopolitical tensions",
+      "title": "Geopolitical Risk Dashboard | BlackRock Investment Institute",
+      "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/interactive-charts/geopolitical-risk-dashboard",
+      "snippet": "Top 10 risks by likelihood ; Middle East regional war, Regional conflict escalates, threatening energy infrastructure and increasing volatility.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:06.337715",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "geopolitical tensions",
+      "title": "Geopolitical tensions - (AP World History: Modern)",
+      "url": "https://library.fiveable.me/key-terms/ap-world/geopolitical-tensions",
+      "snippet": "Geopolitical tensions refer to conflicts and rivalries between nations or regions that arise from their geographical, political, and economic interests.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:06.337747",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "geopolitical tensions",
+      "title": "Top geopolitical risks 2025",
+      "url": "https://kpmg.com/xx/en/our-insights/risk-and-regulation/top-risks-forecast-2025.html",
+      "snippet": "This report provides a comprehensive analysis of the five most pressing geopolitical challenges that organizations will face in the near term.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:06.337779",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "geopolitical tensions",
+      "title": "Beyond borders: Assessing the influence of Geopolitical ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0176268024000521",
+      "snippet": "We find that geopolitical tensions and global uncertainty in border countries contribute to the rise of European country's sovereign risk.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:06.337810",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "geopolitical tensions",
+      "title": "Geopolitical conflict and its impact on global markets",
+      "url": "https://www.usbank.com/investing/financial-perspectives/market-news/russia-ukraine-global-market.html",
+      "snippet": "Increasing global tensions tied to trade tensions and ongoing geopolitical conflicts contributed to investor uncertainty about near-term ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:06.337841",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto adoption",
+      "title": "2024 Global Crypto Adoption Index",
+      "url": "https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/",
+      "snippet": "In each year's report, we look at both on- and off-chain data to determine which countries are leading the world in grassroots crypto adoption.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:14.330481",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto adoption",
+      "title": "Cryptocurrency Ownership Data - Triple-A",
+      "url": "https://www.triple-a.io/cryptocurrency-ownership-data",
+      "snippet": "As of 2024, we estimated global cryptocurrency ownership rates at an average of 6.8%, with over 560 million cryptocurrencies users worldwide.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:14.330586",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto adoption",
+      "title": "Crypto users worldwide 2016-2025",
+      "url": "https://www.statista.com/statistics/1202503/global-cryptocurrency-user-base/",
+      "snippet": "The global user base of cryptocurrencies increased by nearly 190 percent between 2018 and 2020, only to accelerate further in 2022.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:14.330650",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto adoption",
+      "title": "2025 Cryptocurrency Adoption and Consumer Sentiment ...",
+      "url": "https://www.security.org/digital-security/cryptocurrency-annual-consumer-report/",
+      "snippet": "We conducted our annual cryptocurrency study to see what Americans think about cryptocurrency adoption, regulation, and security at the start of 2025.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:14.330712",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto adoption",
+      "title": "2024 Crypto Adoption and Illicit Exposure Report",
+      "url": "https://www.trmlabs.com/resources/reports/2024-crypto-adoption-and-illicit-activity-report",
+      "snippet": "The 2024 Crypto Adoption and Illicit Exposure Report report examines the shifts and trends shaping cryptocurrency adoption around the world.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:14.330774",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto adoption",
+      "title": "Crypto Adoption Index | Crypto Wealth Report",
+      "url": "https://www.henleyglobal.com/publications/crypto-wealth-report/crypto-adoption-index",
+      "snippet": "The Crypto Adoption Index assesses investment migration options for crypto investors who want to craft a portfolio of alternative residence permits and ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:14.330836",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto adoption",
+      "title": "The 2023 Global Crypto Adoption Index",
+      "url": "https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/",
+      "snippet": "The goal of the index is simple: We combine on-chain data and real-world data to measure which countries are leading the world in grassroots crypto adoption.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:14.330897",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto adoption",
+      "title": "What Everyone Gets Wrong About Crypto Adoption",
+      "url": "https://www.forbes.com/sites/digital-assets/2025/05/01/what-everyone-gets-wrong-about-crypto-adoption/",
+      "snippet": "Crypto isn't above the fundamental laws of economics. Like any startup, crypto projects need to target genuine utility first, then use tokens ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:14.330959",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto adoption",
+      "title": "Factors affecting cryptocurrency adoption in digital ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0160791X22002007",
+      "snippet": "Social influence, transparency, price value, traceability, and attitude were significant predictors of cryptocurrency adoption. Our study is the first to ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:14.331020",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto ban",
+      "title": "Legality of cryptocurrency by country or territory",
+      "url": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+      "snippet": "Afghanistan. Illegal. In August 2022 Taliban banned trading in cryptocurrencies. · Kyrgyzstan. Legal. Bitcoin is considered a commodity, not a security or ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:24.931904",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto ban",
+      "title": "China imposes fresh ban on holding crypto, including Bitcoin",
+      "url": "https://www.financialexpress.com/market/cryptocurrency/china-imposes-fresh-ban-on-holding-crypto-including-bitcoin-report/3862209/",
+      "snippet": "The Chinese government has announced a sweeping new ban that prohibits not just trading or mining of cryptocurrencies, but now extends to ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:24.932022",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto ban",
+      "title": "10 Countries Where Crypto Remains Banned in 2025",
+      "url": "https://www.ccn.com/education/crypto/10-countries-where-crypto-remains-banned/",
+      "snippet": "10 Countries Where Crypto Remains Banned in 2025 · 1. China · 2. Egypt · 3. Algeria · 4. Bangladesh · 5. Nepal · 6. Afghanistan · 7. Morocco · 8 ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:24.932085",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto ban",
+      "title": "Crypto Tracing, China's Crypto Ban, and Potential Global ...",
+      "url": "https://www.thinkbrg.com/thinkset/ts-crypto-tracing-china-crypto-ban-global-regulation/",
+      "snippet": "China has taken a particularly tough stance, banning cryptocurrency exchanges and ICOs in 2017. However, some reports suggest that the country is now exploring ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:24.932208",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto ban",
+      "title": "r/Bitcoin - China Imposes New Ban On Crypto Ownership ...",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1kz65lj/china_imposes_new_ban_on_crypto_ownership/",
+      "snippet": "China Imposes New Ban On Crypto Ownership, Including Bitcoin · Comments Section · honkongtraders have entered the chat....",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:24.932274",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto ban",
+      "title": "Proposed US Blockchain Integrity Act would ban crypto mixers ...",
+      "url": "http://foster.house.gov/media/in-the-news/cointelegraph-proposed-us-blockchain-integrity-act-would-ban-crypto-mixers-2",
+      "snippet": "The bill would temporarily prohibit financial institutions, including cryptocurrency exchanges, virtual asset service providers and any other ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:24.932339",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto ban",
+      "title": "Crypto Ban",
+      "url": "https://www.coindesk.com/tag/crypto-ban",
+      "snippet": "Russia's central bank said in a report released Thursday the country must make crypto trading, mining, and usage illegal. CoinDesk reporter Anna Baydakova ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:24.932401",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726760000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "crypto regulation",
+      "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+      "url": "https://www.britannica.com/money/cryptocurrency-regulation",
+      "snippet": "Regulations for crypto are the legal and procedural frameworks that governments enact to shape many different aspects of digital assets.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:28.768593",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "crypto regulation",
+      "title": "Regulating crypto: Why, how, and who | ...",
+      "url": "https://www.brookings.edu/collection/regulating-crypto-why-how-and-who/",
+      "snippet": "Paridon argued that digital currency players should be subject to bank-like regulation. Smith said the industry favors “appropriate regulation,” but argued ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:28.768705",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "crypto regulation",
+      "title": "Crypto Task Force",
+      "url": "https://www.sec.gov/about/crypto-task-force",
+      "snippet": "The Crypto Task Force seeks to provide clarity on the application of the federal securities laws to the crypto asset market and to recommend practical policy ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:28.768768",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "crypto regulation",
+      "title": "Policy",
+      "url": "https://www.coindesk.com/policy",
+      "snippet": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:28.768829",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "crypto regulation",
+      "title": "How are Cryptocurrencies Regulated? | Glossary - Dow Jones",
+      "url": "https://www.dowjones.com/professional/risk/resources/glossary/cryptocurrency-regulation",
+      "snippet": "Many countries are starting to collect taxes on capital gains and crack down on financial crimes in the cryptocurrency space.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:28.768891",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "crypto regulation",
+      "title": "Crypto Regulations in the US—A Complete Guide (2025)",
+      "url": "https://sumsub.com/blog/crypto-regulations-in-the-us-a-complete-guide/",
+      "snippet": "Learn how the current legislative crypto framework functions in the US and how it may change in the future in this article.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:28.768953",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "SEC ruling crypto",
+      "title": "Crypto Assets",
+      "url": "https://www.sec.gov/securities-topics/crypto-assets",
+      "snippet": "The Securities and Exchange Commission today announced fraud charges against three companies purporting to be market makers and nine individuals for engaging in ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:31.331228",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "SEC ruling crypto",
+      "title": "SEC drops Binance lawsuit, ending one of last remaining ...",
+      "url": "https://www.cnbc.com/2025/05/29/sec-drops-binance-lawsuit-ending-one-of-last-remaining-crypto-actions.html",
+      "snippet": "The SEC has formally dropped its lawsuit against Binance and founder Changpeng Zhao, bringing an end to one of the last remaining crypto ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:31.331332",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "SEC ruling crypto",
+      "title": "Crypto Task Force",
+      "url": "https://www.sec.gov/about/crypto-task-force",
+      "snippet": "The Crypto Task Force seeks to provide clarity on the application of the federal securities laws to the crypto asset market and to recommend practical policy ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:31.331395",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "SEC ruling crypto",
+      "title": "Statement on Certain Protocol Staking Activities",
+      "url": "https://www.sec.gov/newsroom/speeches-statements/statement-certain-protocol-staking-activities-052925",
+      "snippet": "While staked, Covered Crypto Assets are “locked-up” and cannot be transferred for a period of time under the terms of the applicable protocol.[6] ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:31.331457",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "SEC ruling crypto",
+      "title": "Frequently Asked Questions Relating to Crypto Asset ...",
+      "url": "https://www.sec.gov/rules-regulations/staff-guidance/trading-markets-frequently-asked-questions/frequently-asked-questions-relating-crypto-asset-activities-distributed-ledger-technology",
+      "snippet": "Q1: Does paragraph (b) of Exchange Act Rule 15c3-3 apply to crypto assets that are not securities? A1: No. Paragraph (b) of Rule 15c3-3 ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:31.331521",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "SEC ruling crypto",
+      "title": "SEC Cryptocurrency Regulations",
+      "url": "https://www.dfinsolutions.com/knowledge-hub/thought-leadership/knowledge-resources/sec-cryptocurrency-regulations",
+      "snippet": "Publicly traded companies that hold, issue, or invest in cryptocurrencies must provide detailed disclosures in their quarterly (10-Q filing) and ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:31.331584",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "SEC ruling crypto",
+      "title": "SEC Paves the Way for Crypto Asset Activities by Broker ...",
+      "url": "https://www.sidley.com/en/insights/newsupdates/2025/05/sec-paves-the-way-for-crypto-asset-activities-by-broker-dealers-and-transfer-agents",
+      "snippet": "SEC Rule 15c3-3(b)(1) requires a broker-dealer to promptly obtain, and thereafter maintain, the possession or control of all “fully-paid” ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:31.331646",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "court decision cryptocurrency",
+      "title": "Supreme Court asked to Reject Coinbase User's Crypto ...",
+      "url": "https://cointelegraph.com/news/government-urges-supreme-court-reject-coinbase-user-crypto-records-fight",
+      "snippet": "US government argues Coinbase user James Harper has no right to block IRS access to his crypto records in Supreme Court filing.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:35.702683",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "court decision cryptocurrency",
+      "title": "Crypto in the Courts: Five Cases Reshaping Digital Asset ...",
+      "url": "https://katten.com/crypto-in-the-courts-five-cases-reshaping-digital-asset-regulation-in-2025",
+      "snippet": "This article examines five cases that may define the future of digital asset regulation in the United States and sets out the issues at stake in those cases.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:35.702786",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "court decision cryptocurrency",
+      "title": "Cryptocurrency, Sweepstakes, and the Supreme Court",
+      "url": "https://www.consumerfinancialserviceslawmonitor.com/2024/05/cryptocurrency-sweepstakes-and-the-supreme-court-a-tale-of-two-contracts/",
+      "snippet": "The decision teaches a cautionary lesson that parties with multiple contracts between them must keep issues of arbitrability consistent between the contracts.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:35.702849",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "court decision cryptocurrency",
+      "title": "Third Circuit Coinbase Decision Pressures SEC on Crypto ...",
+      "url": "https://www.ropesgray.com/en/insights/alerts/2025/01/third-circuit-coinbase-decision-pressures-sec-on-crypto-rulemaking",
+      "snippet": "The Court agreed with Coinbase that the SEC's explanation was insufficient and remanded the issue back to the SEC for a more comprehensive ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:35.702912",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "court decision cryptocurrency",
+      "title": "Crypto's court docket in 2025 is packed with big cases",
+      "url": "https://www.dlnews.com/articles/regulation/crypto-court-docket-in-2025-is-packed-with-big-cases/",
+      "snippet": "Some of the most important court cases facing crypto developers and companies have come from other agencies such as the US Justice Department.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:35.702973",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "court decision cryptocurrency",
+      "title": "Court Publishes Decision on Mandatory Arbitration Provisions ...",
+      "url": "https://consumerlaw.berkeley.edu/news/court-publishes-decision-mandatory-arbitration-provisions-crypto-industry-and-beyond",
+      "snippet": "The opinion establishes a clear blueprint for how to successfully bring claims against abusive cryptocurrency companies for violating consumer ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:35.703035",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "court decision cryptocurrency",
+      "title": "The SEC May Signal New Crypto Enforcement Approach In ...",
+      "url": "https://www.omm.com/insights/alerts-publications/the-sec-may-signal-new-crypto-enforcement-approach-in-upcoming-court-filing/",
+      "snippet": "The district court in SEC v. Coinbase found that the digital asset industry did not have the required significance. ... But Coinbase has appealed ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:35.703098",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "gold price",
+      "title": "Gold Price Charts & Historical Data - GoldPrice.org",
+      "url": "https://goldprice.org/",
+      "snippet": "GOLDPRICE.ORG - The No. 1 gold price site for fast loading live gold price charts in ounces, grams and kilos in every national currency in the world.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:38.070178",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "gold price",
+      "title": "Price of Gold Per Ounce | 24 Hour Spot Chart",
+      "url": "https://www.kitco.com/charts/gold",
+      "snippet": "Live Gold Charts and Gold Spot Price from International Gold Markets, Prices from New York, London, Hong Kong and Sydney provided by Kitco.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:38.070282",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "gold price",
+      "title": "Gold Is Sending Markets a Big Warning Signal",
+      "url": "https://www.barrons.com/articles/gold-price-copper-stocks-ad575da9",
+      "snippet": "On Friday, gold traded at $3313 an ounce, down 0.9%, and about 3% below its April record.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:38.070345",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "gold price",
+      "title": "Live Gold Spot Price Chart",
+      "url": "https://www.bullionvault.com/gold-price-chart.do",
+      "snippet": "The spot price for 1 gram of gold in the US is $105.77 or C$145.34 in Canada. However, it's possible to track the real-time changing price of gold in either ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:38.070406",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "gold price",
+      "title": "Live Gold Price Chart. Buy Gold Bars and Coins Online.",
+      "url": "https://bullionexchanges.com/charts/gold-price",
+      "snippet": "On this page, you will see our live US gold price chart. Simply select the metal or cryptocurrency from the list below to view its changes in spot price over ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:38.070466",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "gold price",
+      "title": "Gold Price Today | Gold Spot Price Charts",
+      "url": "https://www.apmex.com/gold-price",
+      "snippet": "APMEX lists live gold prices and silver prices as well as historical data related to gold spot prices. All prices are updated in real-time. View the spot price ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:38.070530",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "central bank gold reserve",
+      "title": "Central Banks Gold Reserves by Country",
+      "url": "https://www.gold.org/goldhub/data/gold-reserves-by-country",
+      "snippet": "Gold is an important component of central bank reserves because of its safety, liquidity and return characteristics – the three key ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:42.254471",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "central bank gold reserve",
+      "title": "Gold reserve",
+      "url": "https://en.wikipedia.org/wiki/Gold_reserve",
+      "snippet": "A gold reserve is the gold held by a national central bank, intended mainly as a guarantee to redeem promises to pay depositors, note holders",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:42.254583",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "central bank gold reserve",
+      "title": "Central Bank Gold Reserves By Country | Map",
+      "url": "https://www.bullionvault.com/gold-news/infographics/central-bank-gold-reserves-by-country",
+      "snippet": "Overall, the total quantity of gold held in national central-bank reserves has increased almost 19% by weight over the past 20 years – and it ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:42.254646",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "central bank gold reserve",
+      "title": "Top 10 Central Bank Gold Reserves",
+      "url": "https://www.nasdaq.com/articles/top-10-central-bank-gold-reserves",
+      "snippet": "Global central banks own about 17 percent of all the gold ever mined, with reserves topping 37,755 metric tons (MT) at the end of 2024.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:42.254708",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "central bank gold reserve",
+      "title": "Central Banks - Gold Demand Trends: Q1 2025",
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q1-2025/central-banks",
+      "snippet": "Central banks' net purchases totalled 244t in Q1 · The National Bank of Poland accelerated its gold buying · Similar to previous quarters, sale ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:42.254769",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "central bank gold reserve",
+      "title": "Gold Reserves - Countries - List",
+      "url": "https://tradingeconomics.com/country-list/gold-reserves",
+      "snippet": "This page provides values for Gold Reserves reported in several countries. The table has current values for Gold Reserves, previous releases, historical highs ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:42.254832",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "central bank gold reserve",
+      "title": "Why does the Central Bank have gold and where is it stored?",
+      "url": "https://cb.is/knowledge-bank/educational-material/article/why-does-the-central-bank-have-gold-and-where-is-it-stored",
+      "snippet": "The Central Bank owns about 160 gold bars, each of which has a volume of about a litre and weighs about 12.5 kilograms, equivalent to 401 ounces per bar.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:42.254893",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726820000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "central bank gold reserve",
+      "title": "The Role of Gold in Central Bank Reserves | Alchemist",
+      "url": "https://www.lbma.org.uk/alchemist/alchemist-110/the-role-of-gold-in-central-bank-reserves",
+      "snippet": "Gold's status as a currency is therefore borne out by the fact that bullion is counted as part of a central bank's foreign exchange reserves. It is the only ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:42.254953",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "trade tariffs",
+      "title": "Trump tariffs get to stay in place for now. What happens next?",
+      "url": "https://www.bbc.com/news/articles/c8xgdj9kyero",
+      "snippet": "For one thing, the ruling noted that the president does have the power to impose tariffs of up to 15% for 150 days to address concerns about ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:45.058598",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "trade tariffs",
+      "title": "Import Tariffs & Fees Overview and Resources",
+      "url": "https://www.trade.gov/import-tariffs-fees-overview-and-resources",
+      "snippet": "Learn about a tariff or duty which is a tax levied by governments on the value including freight and insurance of imported products.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:45.058707",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "trade tariffs",
+      "title": "What a federal trade court block on Trump tariffs means ...",
+      "url": "https://www.cnbc.com/2025/05/30/what-a-federal-trade-court-block-on-trump-tariffs-means-for-consumers.html",
+      "snippet": "The U.S. Court of International Trade on Wednesday blocked country-specific tariffs, including a 10% baseline tariff on most nations and ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:45.058770",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "trade tariffs",
+      "title": "Whiplash rulings on Trump's tariffs could impact global ...",
+      "url": "https://www.washingtonpost.com/world/2025/05/30/trump-tariffs-trade-china-india/",
+      "snippet": "Trump's April 2 tariffs were a dramatic pivot toward protectionism, a blanket 10 percent levy on nearly all imported goods, with steeper rates ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:45.058832",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "trade tariffs",
+      "title": "Trump wants Xi talk after claiming China 'violated' deal",
+      "url": "https://finance.yahoo.com/news/live/trump-tariffs-live-updates-bessent-says-us-china-trade-talks-have-stalled-191201493.html",
+      "snippet": "Late Wednesday, the trade court had voted to block many of Trump's tariffs, including the flat-rate \"reciprocal\" tariffs aimed at US trade ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:45.058893",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "trade tariffs",
+      "title": "Tariff Rulings Inject New Uncertainty Into Trump Trade ...",
+      "url": "https://www.nytimes.com/2025/05/29/us/politics/trump-tariffs-trade-policy.html",
+      "snippet": "A court ruling invalidating President Trump's sweeping tariffs was halted hours later, throwing into question the administration's overall ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:45.058955",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "trade tariffs",
+      "title": "Trump: US to double steel import tariffs to 50%",
+      "url": "https://www.bbc.com/news/articles/cy0k5x21y35o",
+      "snippet": "President Donald Trump has announced the US will double its current tariff rate on steel and aluminium imports from 25% to 50%, starting on ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:45.059016",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "trade tariffs",
+      "title": "Regulating Imports with a Reciprocal Tariff to Rectify Trade ...",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/",
+      "snippet": "Regulating imports with a reciprocal tariff to rectify trade practices that contribute to large and persistent annual United States goods trade deficits.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:45.059076",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "trade tariffs",
+      "title": "As Trump's tariffs face legal challenge, here are some of ...",
+      "url": "https://www.cbsnews.com/news/trump-tariffs-court-ruling-ieepa/",
+      "snippet": "President Trump has a number of options at his disposal to implement tariffs, but none are as broad and aggressive as IEEPA.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:45.059136",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day\",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"50\",\"X-RateLimit-Remain"
+      }
+    },
+    {
+      "topic": "economic sanctions",
+      "title": "Economic sanctions",
+      "url": "https://en.wikipedia.org/wiki/Economic_sanctions",
+      "snippet": "Economic sanctions or embargoes are commercial and financial penalties applied by states or institutions against states, groups, or individuals.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:52.197665",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726880000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "economic sanctions",
+      "title": "What Are Economic Sanctions?",
+      "url": "https://www.cfr.org/backgrounder/what-are-economic-sanctions",
+      "snippet": "Economic sanctions are defined as the withdrawal of customary trade and financial relations for foreign- and security-policy purposes.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:52.197756",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726880000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "economic sanctions",
+      "title": "Sanctions Programs and Country Information",
+      "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information",
+      "snippet": "The sanctions can be either comprehensive or selective, using the blocking of assets and trade restrictions to accomplish foreign policy and national security ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:52.197795",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726880000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "economic sanctions",
+      "title": "Economic Sanctions: An Overview",
+      "url": "https://www.usitc.gov/sites/default/files/publications/332/executive_briefings/ebot_economic_sanctions_overview.pdf",
+      "snippet": "Definition. Economic sanctions (hereunder, “sanctions”) are often defined as “...the deliberate, government- inspired withdrawal, or threat of withdrawal, ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:52.197832",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726880000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "economic sanctions",
+      "title": "Evidence on the Costs and Benefits of Economic Sanctions",
+      "url": "https://www.piie.com/commentary/testimonies/evidence-costs-and-benefits-economic-sanctions",
+      "snippet": "While the benefits of economic sanctions are elusive, the costs often are not. Trade sanctions deprive the United States of the gains from trade and frequently ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:52.197869",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726880000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "economic sanctions",
+      "title": "Economic Sanctions Policy and Implementation",
+      "url": "https://www.state.gov/economic-sanctions-policy-and-implementation/",
+      "snippet": "The Office of Economic Sanctions Policy and Implementation (TFS/SPI) maintains and enforces sanctions to maximize their economic impact on our targets and ...",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:52.197905",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726880000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "economic sanctions",
+      "title": "Economic sanctions on countries are indiscriminate ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8679062/",
+      "snippet": "Economic sanctions are usually applied by governments or the United Nations Security Council (UNSC) to individuals, companies or countries.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:52.197941",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726880000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "economic sanctions",
+      "title": "US Economic Sanctions: Their Impact on Trade, Jobs, and ...",
+      "url": "https://www.piie.com/publications/working-papers/us-economic-sanctions-their-impact-trade-jobs-and-wages",
+      "snippet": "The OECD results suggest that extensive sanctions lower exports by 78 percent, while limited to modest sanctions reduce exports by 21 percent to 33 percent.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:52.197977",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726880000\"},\"provider_n"
+      }
+    },
+    {
+      "topic": "economic sanctions",
+      "title": "Are Economic Sanctions Effective Foreign Policy Tools?",
+      "url": "https://now.tufts.edu/2024/07/08/are-economic-sanctions-effective-foreign-policy-tools",
+      "snippet": "Economic sanctions are increasingly used to try to change foreign governments policies and actions, often with unintended consequences.",
+      "source": "serpapi_macro",
+      "timestamp": "2025-05-31T21:24:52.198012",
+      "sentiment": 0.0,
+      "sentiment_score": 0.0,
+      "sentiment_category": "neutral",
+      "sentiment_analysis_details": {
+        "score": 0.0,
+        "category": "neutral",
+        "error": "LLM API HTTP error 429: {\"error\":{\"message\":\"Rate limit exceeded: free-models-per-min. \",\"code\":429,\"metadata\":{\"headers\":{\"X-RateLimit-Limit\":\"20\",\"X-RateLimit-Remaining\":\"0\",\"X-RateLimit-Reset\":\"1748726880000\"},\"provider_n"
+      }
+    }
+  ],
+  "total_social_posts_analyzed": 69,
+  "source_breakdown": {
+    "reddit_posts_fetched": 49,
+    "twitter_tweets_fetched": 20,
+    "cryptopanic_articles_fetched": 0
+  }
+}
