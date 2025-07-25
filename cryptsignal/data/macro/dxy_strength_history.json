@@ -1,0 +1,27 @@
+[
+  {
+    "fetch_timestamp": "2025-07-25 02:17:49",
+    "data_date": "2025-07-24",
+    "uup_close_price": 27.13
+  },
+  {
+    "fetch_timestamp": "2025-07-24 20:36:10",
+    "data_date": "2025-07-23",
+    "uup_close_price": 27.06
+  },
+  {
+    "fetch_timestamp": "2025-07-02 11:29:33",
+    "data_date": "2025-07-01",
+    "uup_close_price": 26.87
+  },
+  {
+    "fetch_timestamp": "2025-05-31 22:13:49",
+    "data_date": "2025-05-30",
+    "uup_close_price": 27.45
+  },
+  {
+    "fetch_timestamp": "2025-05-30 16:39:27",
+    "data_date": "2025-05-29",
+    "uup_close_price": 27.46
+  }
+]
