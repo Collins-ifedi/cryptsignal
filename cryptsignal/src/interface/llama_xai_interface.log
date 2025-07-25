@@ -1,0 +1,30 @@
+2025-05-03 12:11:09,472 - __main__ - ERROR - Config file not found at: config/credentials.yaml
+2025-05-03 12:12:41,970 - __main__ - ERROR - Config file not found at: config/credentials.yaml
+2025-05-03 12:21:47,216 - __main__ - INFO - LLaMA XAI Interface initialized successfully.
+2025-05-03 12:21:48,853 - __main__ - ERROR - HTTP error from LLaMA API: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Llama-4-Maverick-17B-128E-Instruct, response: {"error":"The model meta-llama/Llama-4-Maverick-17B-128E-Instruct is too large to be loaded automatically (803GB > 10GB)."}
+2025-05-03 12:21:51,287 - __main__ - ERROR - HTTP error from LLaMA API: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Llama-4-Maverick-17B-128E-Instruct, response: {"error":"The model meta-llama/Llama-4-Maverick-17B-128E-Instruct is too large to be loaded automatically (803GB > 10GB)."}
+2025-05-03 12:21:53,771 - __main__ - ERROR - HTTP error from LLaMA API: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Llama-4-Maverick-17B-128E-Instruct, response: {"error":"The model meta-llama/Llama-4-Maverick-17B-128E-Instruct is too large to be loaded automatically (803GB > 10GB)."}
+2025-05-03 12:21:53,773 - __main__ - ERROR - Failed to generate explanation: RetryError[<Future at 0xef3116c0 state=finished raised HTTPError>]
+Traceback (most recent call last):
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "<string>", line 237, in _make_api_request
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/requests/models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://api-inference.huggingface.co/models/meta-llama/Llama-4-Maverick-17B-128E-Instruct
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<string>", line 271, in explain_signal
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/data/user/0/ru.iiec.pydroid3/files/arm-linux-androideabi/lib/python3.13/site-packages/tenacity/__init__.py", line 421, in exc_check
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0xef3116c0 state=finished raised HTTPError>]
+2025-05-03 12:25:33,808 - __main__ - INFO - LLaMA XAI Interface initialized successfully.
+2025-05-03 12:25:47,418 - __main__ - INFO - Successfully generated trading signal explanation.
