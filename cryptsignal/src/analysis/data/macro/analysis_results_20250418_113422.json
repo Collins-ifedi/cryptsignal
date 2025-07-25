@@ -1,0 +1,62 @@
+[
+  {
+    "title": "US Real GDP",
+    "trend": "increasing",
+    "recent_values": [
+      23305.023,
+      22671.096,
+      22034.828
+    ],
+    "analysis": "The US Real GDP appears to be increasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "US GDP Per Capita",
+    "trend": "increasing",
+    "recent_values": [
+      69006.0,
+      68696.0,
+      68320.0
+    ],
+    "analysis": "The US GDP Per Capita appears to be increasing, which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Consumer Price Index (CPI)",
+    "analysis": "The Consumer Price Index (CPI) appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Inflation Rate",
+    "analysis": "The Inflation Rate appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Inflation Expectations",
+    "analysis": "The Inflation Expectations appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Unemployment Rate",
+    "analysis": "The Unemployment Rate appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Nonfarm Payroll",
+    "analysis": "The Nonfarm Payroll appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Retail Sales",
+    "analysis": "Could not retrieve fallback information for Retail Sales."
+  },
+  {
+    "title": "Industrial Production",
+    "analysis": "Could not retrieve fallback information for Industrial Production."
+  },
+  {
+    "title": "Federal Funds Rate",
+    "analysis": "The Federal Funds Rate appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "US Treasury Yield",
+    "analysis": "The US Treasury Yield appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "USD Index",
+    "analysis": "The USD Index appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  }
+]
