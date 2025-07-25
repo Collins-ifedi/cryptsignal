@@ -1,0 +1,50 @@
+[
+  {
+    "source": "AlphaVantage",
+    "title": "US Real GDP",
+    "function": "REAL_GDP",
+    "data": {
+      "Error Message": "the parameter apikey is invalid or missing. Please claim your free API key on (https://www.alphavantage.co/support/#api-key). It should take less than 20 seconds."
+    }
+  },
+  {
+    "source": "AlphaVantage",
+    "title": "Consumer Price Index (CPI)",
+    "function": "CPI",
+    "data": {
+      "Error Message": "the parameter apikey is invalid or missing. Please claim your free API key on (https://www.alphavantage.co/support/#api-key). It should take less than 20 seconds."
+    }
+  },
+  {
+    "source": "AlphaVantage",
+    "title": "Federal Funds Rate",
+    "function": "FEDERAL_FUNDS_RATE",
+    "data": {
+      "Error Message": "the parameter apikey is invalid or missing. Please claim your free API key on (https://www.alphavantage.co/support/#api-key). It should take less than 20 seconds."
+    }
+  },
+  {
+    "source": "AlphaVantage",
+    "title": "Unemployment Rate",
+    "function": "UNEMPLOYMENT",
+    "data": {
+      "Error Message": "the parameter apikey is invalid or missing. Please claim your free API key on (https://www.alphavantage.co/support/#api-key). It should take less than 20 seconds."
+    }
+  },
+  {
+    "source": "AlphaVantage",
+    "title": "Retail Sales",
+    "function": "RETAIL_SALES",
+    "data": {
+      "Error Message": "the parameter apikey is invalid or missing. Please claim your free API key on (https://www.alphavantage.co/support/#api-key). It should take less than 20 seconds."
+    }
+  },
+  {
+    "source": "AlphaVantage",
+    "title": "Industrial Production",
+    "function": "INDUSTRIAL_PRODUCTION",
+    "data": {
+      "Error Message": "the parameter apikey is invalid or missing. Please claim your free API key on (https://www.alphavantage.co/support/#api-key). It should take less than 20 seconds."
+    }
+  }
+]
