@@ -1,0 +1,97 @@
+{
+  "timestamp": "2025-04-27T17:04:13.167553",
+  "symbol": "solana",
+  "average_sentiment_score": 0.0,
+  "fear_greed_index": [
+    {
+      "value": 61,
+      "classification": "Greed",
+      "timestamp_unix": 1745712000,
+      "datetime": "2025-04-27T00:00:00"
+    }
+  ],
+  "dxy_strength_score": null,
+  "macro_news_sentiment": [
+    {
+      "title": "Latest health data reveals thousands of patients now seen quicker",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605725",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "New powers to root out fake \u2018lawyers\u2019 giving rogue asylum advice",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605777",
+      "sentiment": "negative"
+    },
+    {
+      "title": "Gamechanging AI doctors\u2019 assistant to speed up appointments",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605794",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Coke shipment keeps British Steel\u2019s blast furnaces burning",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605810",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "AI doctors\u2019 assistant to speed up appointments a \u2018gamechanger\u2019",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605826",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Statement on Serco asylum accommodation list",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605842",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "PM meeting with President Zelenskyy of Ukraine: 26 April 2025",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605858",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "UK Gulf visit to enhance regional security and boost UK growth",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605874",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Bird flu (avian influenza): latest situation in England",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605891",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "MOJ response to The Victims\u2019 Commissioner\u2019s report into the Crown Court backlog",
+      "url": "https://www.gov.uk/government/announcements",
+      "country": "UK",
+      "source": "government",
+      "scraped_at": "2025-04-27T17:04:03.605906",
+      "sentiment": "neutral"
+    }
+  ],
+  "total_posts_analyzed": 2
+}
