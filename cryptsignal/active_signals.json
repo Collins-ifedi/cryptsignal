@@ -1,0 +1,32 @@
+{
+    "DOGE": {
+        "asset": "DOGE",
+        "timestamp_utc": "2025-07-16T18:34:42.818572+00:00",
+        "signal_type": "LONG",
+        "timeframe": "4h/1h/15m",
+        "confidence": "High",
+        "score": 0.235,
+        "entry_price": 0.21058,
+        "stop_loss": 0.20216,
+        "take_profit_1": 0.21186,
+        "take_profit_2": 0.21315,
+        "suggested_leverage": "5-10x",
+        "valid_until": "2025-07-16T22:34:42.818572+00:00",
+        "reason": "4H Trend: Price > 50-EMA, MACD is bullish, and ADX (16.2) > 16. | 1H Entry: 1h score (0.24) met threshold. Strategies, TA, and patterns align. | 15M Confirm: Confirmed by 15m RSI (70.0) and bullish momentum (9-EMA > 18-EMA)."
+    },
+    "FOR": {
+        "asset": "FOR",
+        "timestamp_utc": "2025-07-20T14:53:02.269684+00:00",
+        "signal_type": "SHORT",
+        "timeframe": "4h/1h/15m",
+        "confidence": "High",
+        "score": -0.435,
+        "entry_price": 0.00306,
+        "stop_loss": 0.00318,
+        "take_profit_1": 0.00303,
+        "take_profit_2": 0.003,
+        "suggested_leverage": "5-10x",
+        "valid_until": "2025-07-20T18:53:02.269684+00:00",
+        "reason": "4H Trend: Price < 50-EMA, MACD is bearish, and ADX (42.1) > 16. | 1H Entry: 1h score (-0.43) met threshold. Strategies, TA, and patterns align. | 15M Confirm: Confirmed by 15m RSI (12.2) and bearish momentum (9-EMA < 18-EMA)."
+    }
+}
