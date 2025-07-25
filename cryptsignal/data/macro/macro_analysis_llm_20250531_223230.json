@@ -1,0 +1,65 @@
+[
+  {
+    "title": "GDP Growth Rate",
+    "text": "LLM analysis unavailable for GDP Growth Rate.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM API HTTP error for GDP Growth Rate."
+  },
+  {
+    "title": "Unemployment Rate",
+    "text": "LLM analysis unavailable for Unemployment Rate.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM API HTTP error for Unemployment Rate."
+  },
+  {
+    "title": "CPI Inflation",
+    "text": "LLM analysis unavailable for CPI Inflation.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM API HTTP error for CPI Inflation."
+  },
+  {
+    "title": "Interest Rate",
+    "text": "LLM analysis unavailable for Interest Rate.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM API HTTP error for Interest Rate."
+  },
+  {
+    "title": "Consumer Confidence Index",
+    "text": "LLM analysis unavailable for Consumer Confidence Index.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM API HTTP error for Consumer Confidence Index."
+  },
+  {
+    "title": "Retail Sales",
+    "text": "LLM analysis unavailable for Retail Sales.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM API HTTP error for Retail Sales."
+  },
+  {
+    "title": "ISM Manufacturing PMI",
+    "text": "LLM analysis unavailable for ISM Manufacturing PMI.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM API HTTP error for ISM Manufacturing PMI."
+  },
+  {
+    "title": "Initial Jobless Claims",
+    "text": "LLM analysis unavailable for Initial Jobless Claims.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM API HTTP error for Initial Jobless Claims."
+  },
+  {
+    "title": "Non-Farm Payrolls",
+    "text": "LLM analysis unavailable for Non-Farm Payrolls.",
+    "sentiment": 0.0,
+    "category": "neutral",
+    "error": "LLM API HTTP error for Non-Farm Payrolls."
+  }
+]
