@@ -1,0 +1,74 @@
+2025-04-13 15:00:40,011 [ERROR] Failed to load config: [Errno 2] No such file or directory: 'config/credentials.ymal'
+2025-04-13 15:02:06,967 [ERROR] Failed to load config: [Errno 2] No such file or directory: 'config/credentials.ymal'
+2025-04-13 15:03:49,378 [ERROR] Failed to load config: [Errno 2] No such file or directory: '... config/credentials.ymal'
+2025-04-13 15:04:00,487 [ERROR] Failed to load config: [Errno 2] No such file or directory: '.... config/credentials.ymal'
+2025-04-13 15:04:14,652 [ERROR] Failed to load config: [Errno 2] No such file or directory: 'config/credentials.ymal'
+2025-04-13 15:07:49,454 [ERROR] Failed to load config: [Errno 2] No such file or directory: 'config/credentials.yaml'
+2025-04-13 15:11:07,931 [ERROR] Failed to load config: [Errno 2] No such file or directory: 'config/credentials.yaml'
+2025-04-13 15:14:29,247 [ERROR] Failed to load config: Config file not found: config/credentials.yaml
+2025-04-13 15:14:29,248 [ERROR] Scraper failed: Config file not found: config/credentials.yaml
+2025-04-13 15:20:10,556 [ERROR] Config file not found: ../../config/credentials.yaml
+2025-04-13 15:20:10,558 [ERROR] Scraper failed: [Errno 2] No such file or directory: '../../config/credentials.yaml'
+2025-04-13 15:20:56,668 [ERROR] Config file not found: ../../config/credentials.yaml
+2025-04-13 15:20:56,669 [ERROR] Scraper failed: [Errno 2] No such file or directory: '../../config/credentials.yaml'
+2025-04-13 15:24:09,668 [INFO] Fetched 50 tweets for query: Bitcoin
+2025-04-13 15:24:09,682 [INFO] Saved 50 tweets to data/twitter/bitcoin_20250413_142409.jsonl
+2025-04-13 15:24:10,307 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Ethereum&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:24:10,310 [WARNING] No tweets to save.
+2025-04-13 15:24:10,908 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Solana&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:24:10,910 [WARNING] No tweets to save.
+2025-04-13 15:30:02,612 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Bitcoin&max_results=30&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:30:02,617 [WARNING] No tweets to save.
+2025-04-13 15:30:03,292 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Ethereum&max_results=30&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:30:03,295 [WARNING] No tweets to save.
+2025-04-13 15:30:03,930 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Solana&max_results=30&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:30:03,933 [WARNING] No tweets to save.
+2025-04-13 15:32:04,419 [ERROR] Unexpected error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/tweets/search/recent?query=Bitcoin&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe776de70>: Failed to resolve 'api.twitter.com' ([Errno 7] No address associated with hostname)"))
+2025-04-13 15:32:04,421 [WARNING] No tweets to save.
+2025-04-13 15:32:04,437 [ERROR] Unexpected error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/tweets/search/recent?query=Ethereum&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe7769b70>: Failed to resolve 'api.twitter.com' ([Errno 7] No address associated with hostname)"))
+2025-04-13 15:32:04,438 [WARNING] No tweets to save.
+2025-04-13 15:32:04,457 [ERROR] Unexpected error: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /2/tweets/search/recent?query=Solana&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0xe774eed0>: Failed to resolve 'api.twitter.com' ([Errno 7] No address associated with hostname)"))
+2025-04-13 15:32:04,458 [WARNING] No tweets to save.
+2025-04-13 15:32:19,191 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Bitcoin&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:32:19,194 [WARNING] No tweets to save.
+2025-04-13 15:32:19,726 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Ethereum&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:32:19,730 [WARNING] No tweets to save.
+2025-04-13 15:32:20,315 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Solana&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:32:20,317 [WARNING] No tweets to save.
+2025-04-13 15:32:35,000 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Bitcoin&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:32:35,004 [WARNING] No tweets to save.
+2025-04-13 15:32:35,562 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Ethereum&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:32:35,564 [WARNING] No tweets to save.
+2025-04-13 15:32:36,119 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Solana&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:32:36,121 [WARNING] No tweets to save.
+2025-04-13 15:33:05,613 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Bitcoin&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:33:05,616 [WARNING] No tweets to save.
+2025-04-13 15:33:07,009 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Ethereum&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:33:07,012 [WARNING] No tweets to save.
+2025-04-13 15:33:07,541 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Solana&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 15:33:07,544 [WARNING] No tweets to save.
+2025-04-13 15:36:51,451 [ERROR] Rate limit hit. Sleeping before retry... (Attempt 1)
+2025-04-13 15:37:52,160 [ERROR] Rate limit hit. Sleeping before retry... (Attempt 2)
+2025-04-13 15:49:07,896 [INFO] Fetched 50 tweets for query: Bitcoin
+2025-04-13 15:49:07,909 [INFO] Saved 50 tweets to data/twitter/bitcoin_20250413_144907.jsonl
+2025-04-13 15:57:50,210 [ERROR] Rate limit hit. Sleeping before retry... (Attempt 1)
+2025-04-13 15:59:29,238 [ERROR] Rate limit hit. Sleeping before retry... (Attempt 1)
+2025-04-13 15:59:29,241 [ERROR] Unexpected error: name 'time' is not defined
+2025-04-13 15:59:29,244 [WARNING] No tweets to save.
+2025-04-13 16:00:48,413 [ERROR] Rate limit hit. Sleeping before retry... (Attempt 1)
+2025-04-13 16:00:49,312 [ERROR] Rate limit hit. Sleeping before retry... (Attempt 2)
+2025-04-13 16:00:50,151 [ERROR] Rate limit hit. Sleeping before retry... (Attempt 3)
+2025-04-13 16:00:50,152 [ERROR] Exceeded retry limit due to rate limits.
+2025-04-13 16:00:50,155 [WARNING] No tweets to save.
+2025-04-13 16:05:41,976 [ERROR] Failed to load config: Config file not found: config/credentials.yaml
+2025-04-13 16:05:41,977 [ERROR] Scraper failed: Config file not found: config/credentials.yaml
+2025-04-13 16:08:07,332 [ERROR] Config file not found: /your/full/path/to/cryptsignal/config/credentials.ymal
+2025-04-13 16:08:07,335 [ERROR] Scraper failed: [Errno 2] No such file or directory: '/your/full/path/to/cryptsignal/config/credentials.ymal'
+2025-04-13 16:10:28,379 [INFO] Fetched 50 tweets for query: Bitcoin
+2025-04-13 16:10:28,391 [INFO] Saved 50 tweets to data/twitter/bitcoin_20250413_151028.jsonl
+2025-04-13 16:10:29,040 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Ethereum&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 16:10:29,043 [WARNING] No tweets to save.
+2025-04-13 16:10:29,668 [ERROR] HTTP error: 429 Client Error: Too Many Requests for url: https://api.twitter.com/2/tweets/search/recent?query=Solana&max_results=50&tweet.fields=created_at%2Ctext%2Cauthor_id - Response: {"title":"Too Many Requests","detail":"Too Many Requests","type":"about:blank","status":429}
+2025-04-13 16:10:29,670 [WARNING] No tweets to save.
+2025-04-13 16:17:09,572 [ERROR] Rate limit hit. Try again later.
+2025-04-13 16:17:09,577 [WARNING] No tweets to save.
