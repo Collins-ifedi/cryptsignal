@@ -1,0 +1,38 @@
+[
+  {
+    "title": "GDP Growth Rate",
+    "analysis": "Could not retrieve fallback information for GDP Growth Rate."
+  },
+  {
+    "title": "Unemployment Rate",
+    "analysis": "The Unemployment Rate appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "CPI Inflation",
+    "analysis": "The CPI Inflation appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Interest Rate",
+    "analysis": "The Interest Rate appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Consumer Confidence Index",
+    "analysis": "Could not retrieve fallback information for Consumer Confidence Index."
+  },
+  {
+    "title": "Retail Sales",
+    "analysis": "Could not retrieve fallback information for Retail Sales."
+  },
+  {
+    "title": "ISM Manufacturing PMI",
+    "analysis": "The ISM Manufacturing PMI appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Initial Jobless Claims",
+    "analysis": "The Initial Jobless Claims appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  },
+  {
+    "title": "Non-Farm Payrolls",
+    "analysis": "The Non-Farm Payrolls appears to be changing (fallback source), which may affect Bitcoin sentiment."
+  }
+]
