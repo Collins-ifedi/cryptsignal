@@ -1,0 +1,856 @@
+[
+  {
+    "title": "VE Day boost for veterans’ healthcare",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.117762",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "PM remarks on the UK's landmark economic deal with the US: Thursday 8 May",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.117875",
+    "sentiment": "positive"
+  },
+  {
+    "title": "World Press Freedom Day 2025:  Joint Statement to the OSCE",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.117932",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Landmark economic deal with United States saves thousands of  jobs for British car makers and steel industry",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.117985",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Door supervisor convicted after working with a suspended licence",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.118040",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "HMRC interest rates for late payments will be revised following the Bank of England interest rate cut to 4.25%.",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.118092",
+    "sentiment": "negative"
+  },
+  {
+    "title": "Report by the Head of the OSCE Mission to Moldova: UK statement, May 2025",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.118143",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "Secretary of State marks 80th anniversary of VE Day",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.118193",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK pledges support to strengthen Ukraine's justice system",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.118243",
+    "sentiment": "neutral"
+  },
+  {
+    "title": "UK and Norway accelerate clean energy opportunities",
+    "url": "https://www.gov.uk/government/announcements",
+    "country": "UK",
+    "source": "government",
+    "scraped_at": "2025-05-08T20:10:07.118294",
+    "sentiment": "positive"
+  },
+  {
+    "topic": "global economy",
+    "title": "Global economy, world economy | TheGlobalEconomy.com",
+    "url": "https://www.theglobaleconomy.com/",
+    "snippet": "Information on the global economy with data on over 400 indicators, updated regularly, for over 200 countries as well as interactive tools, articles, ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:11.364712",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "global economy",
+    "title": "The Global Economy Enters a New Era",
+    "url": "https://www.imf.org/en/Blogs/Articles/2025/04/22/the-global-economy-enters-a-new-era",
+    "snippet": "Risks to the global economy have increased, and worsening trade tensions could further depress growth. Financial conditions could tighten ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:11.364869",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "global economy",
+    "title": "World economy",
+    "url": "https://en.wikipedia.org/wiki/World_economy",
+    "snippet": "The world economy or global economy is the economy of all humans in the world, referring to the global economic system.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:11.364970",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "global economy",
+    "title": "Global Economy",
+    "url": "https://www.ft.com/global-economy",
+    "snippet": "News and top stories on the state of the global economy. The latest economic data, reports and updates from countries around the world, on jobs, trade, ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:11.365066",
+    "sentiment": "positive"
+  },
+  {
+    "topic": "global economy",
+    "title": "Global Economic Prospects",
+    "url": "https://www.worldbank.org/en/publication/global-economic-prospects",
+    "snippet": "Global growth is expected to hold steady at 2.7 percent in 2025-26. However, the global economy appears to be settling at a low growth rate.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:11.365162",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "global economy",
+    "title": "World Economic Outlook - All Issues",
+    "url": "https://www.imf.org/en/Publications/WEO",
+    "snippet": "Description: The January 2023 World Economic Outlook Update projects that global growth will fall to 2.9 percent in 2023 but rise to 3.1 percent in 2024. The ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:11.365260",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "global economy",
+    "title": "Global Weekly Economic Update | Deloitte Insights",
+    "url": "https://www2.deloitte.com/us/en/insights/economy/global-economic-outlook/weekly-update.html",
+    "snippet": "What's happening this week in economics? Deloitte's team of economists examines news and trends from around the world.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:11.365356",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "global economy",
+    "title": "How does the global economy work?",
+    "url": "https://www.edology.com/blog/accounting-finance/how-does-global-economy-work/",
+    "snippet": "The global economy refers to the interconnected worldwide economic activities that take place between multiple countries. These economic activities can have ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:11.365451",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "geopolitical tensions",
+    "title": "Top Geopolitical Risks of 2025",
+    "url": "https://www.spglobal.com/en/research-insights/market-insights/geopolitical-risk",
+    "snippet": "The world is changing. Geopolitical fragmentation is being fueled by COVID-19, the war in Ukraine, U.S.-China relations and more.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:13.609459",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "geopolitical tensions",
+    "title": "How are geopolitical risks affecting the world economy?",
+    "url": "https://www.economicsobservatory.com/how-are-geopolitical-risks-affecting-the-world-economy",
+    "snippet": "Geopolitical risks posed by elections, polarisation and conflicts within and between states have inevitable knock-on effects on the economy, both globally and ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:13.609617",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "geopolitical tensions",
+    "title": "How Geopolitical Risks Influence the Global Community",
+    "url": "https://geopoliticalfutures.com/risk/",
+    "snippet": "Geopolitical risks are defined as the potential political, economic, military, and social risks that can emerge from a nation's involvement in international ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:13.609717",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "geopolitical tensions",
+    "title": "Geopolitical Risk Dashboard | BlackRock Investment Institute",
+    "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/interactive-charts/geopolitical-risk-dashboard",
+    "snippet": "The global BlackRock Geopolitical Risk Indicator (BGRI) aims to capture overall market attention to geopolitical risks, as the line chart shows.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:13.609820",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "geopolitical tensions",
+    "title": "Top geopolitical risks 2025",
+    "url": "https://kpmg.com/xx/en/our-insights/risk-and-regulation/top-risks-forecast-2025.html",
+    "snippet": "Geopolitical rivalries, trade protectionism, conflict, competition for resources, cyberattacks and climate events place severe strains on ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:13.609927",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "geopolitical tensions",
+    "title": "Geopolitical tensions - (AP World History",
+    "url": "https://library.fiveable.me/key-terms/ap-world/geopolitical-tensions",
+    "snippet": "Geopolitical tensions refer to conflicts and rivalries between nations or regions that arise from their geographical, political, and economic interests.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:13.610027",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "geopolitical tensions",
+    "title": "Beyond borders: Assessing the influence of Geopolitical ...",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0176268024000521",
+    "snippet": "We find that geopolitical tensions and global uncertainty in border countries contribute to the rise of European country's sovereign risk.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:13.610123",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "geopolitical tensions",
+    "title": "Geopolitical Monitor",
+    "url": "https://www.geopoliticalmonitor.com/",
+    "snippet": "This week we cover escalating geopolitical tensions between India and Pakistan; EU attempts to hedge economic bets with China amid the ongoing trade war ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:13.610219",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "crypto adoption",
+    "title": "2024 Global Crypto Adoption Index",
+    "url": "https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/",
+    "snippet": "In each year's report, we look at both on- and off-chain data to determine which countries are leading the world in grassroots crypto adoption.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:21.494723",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto adoption",
+    "title": "Cryptocurrency Ownership Data - Triple-A",
+    "url": "https://www.triple-a.io/cryptocurrency-ownership-data",
+    "snippet": "As of 2024, we estimated global cryptocurrency ownership rates at an average of 6.8%, with over 560 million cryptocurrencies users worldwide.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:21.494854",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto adoption",
+    "title": "The 2023 Global Crypto Adoption Index",
+    "url": "https://www.chainalysis.com/blog/2023-global-crypto-adoption-index/",
+    "snippet": "The goal of the index is simple: We combine on-chain data and real-world data to measure which countries are leading the world in grassroots crypto adoption.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:21.494934",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto adoption",
+    "title": "Crypto users worldwide 2016-2025",
+    "url": "https://www.statista.com/statistics/1202503/global-cryptocurrency-user-base/",
+    "snippet": "The global user base of cryptocurrencies increased by nearly 190 percent between 2018 and 2020, only to accelerate further in 2022.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:21.495012",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "crypto adoption",
+    "title": "2025 Cryptocurrency Adoption and Consumer Sentiment ...",
+    "url": "https://www.security.org/digital-security/cryptocurrency-annual-consumer-report/",
+    "snippet": "Ownership rates are likely to accelerate this year. According to our research, 14 percent of non-owners plan to enter the crypto market in 2025, ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:21.495089",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto adoption",
+    "title": "2024 Crypto Adoption and Illicit Exposure Report",
+    "url": "https://www.trmlabs.com/resources/reports/2024-crypto-adoption-and-illicit-activity-report",
+    "snippet": "The 2024 Crypto Adoption and Illicit Exposure Report report examines the shifts and trends shaping cryptocurrency adoption around the world.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:21.495168",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto adoption",
+    "title": "Crypto Adoption Index | Crypto Wealth Report",
+    "url": "https://www.henleyglobal.com/publications/crypto-wealth-report/crypto-adoption-index",
+    "snippet": "The Crypto Adoption Index assesses investment migration options for crypto investors who want to craft a portfolio of alternative residence permits and ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:21.495245",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto adoption",
+    "title": "Global surge: exploring cryptocurrency adoption with ...",
+    "url": "https://jfin-swufe.springeropen.com/articles/10.1186/s40854-025-00765-0",
+    "snippet": "Our findings reveal that cryptocurrency adoption is significantly influenced by economic instability, infrastructure availability, and spatial ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:21.495322",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto adoption",
+    "title": "Factors affecting cryptocurrency adoption in digital ...",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0160791X22002007",
+    "snippet": "Social influence, transparency, price value, traceability, and attitude were significant predictors of cryptocurrency adoption. Our study is the first to ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:21.495465",
+    "sentiment": "positive"
+  },
+  {
+    "topic": "crypto ban",
+    "title": "US senators attempt to ban Trump's 'profoundly corrupt' ...",
+    "url": "https://news.sky.com/story/us-senators-attempt-to-ban-trumps-profoundly-corrupt-crypto-schemes-13363230",
+    "snippet": "The End Crypto Corruption Act, proposed by Democratic senators Jeff Merkley and Chuck Schumer, directly targets President Trump and his family.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:27.082788",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto ban",
+    "title": "Legality of cryptocurrency by country or territory",
+    "url": "https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory",
+    "snippet": "Afghanistan. Illegal. In August 2022 Taliban banned trading in cryptocurrencies. · Kyrgyzstan. Legal. Bitcoin is considered a commodity, not a security or ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:27.082942",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "crypto ban",
+    "title": "EU to ban anonymous crypto accounts and privacy coins ...",
+    "url": "https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027",
+    "snippet": "Europe will ban anonymous crypto accounts and privacy coins starting in 2027 under sweeping new AML regulations targeting service providers ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:27.083043",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto ban",
+    "title": "Crypto Tracing, China's Crypto Ban, and Potential Global ...",
+    "url": "https://www.thinkbrg.com/thinkset/ts-crypto-tracing-china-crypto-ban-global-regulation/",
+    "snippet": "China has taken a particularly tough stance, banning cryptocurrency exchanges and ICOs in 2017. However, some reports suggest that the country is now exploring ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:27.083141",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "crypto ban",
+    "title": "10 Countries Where Crypto Remains Banned in 2025",
+    "url": "https://www.ccn.com/education/crypto/10-countries-where-crypto-remains-banned/",
+    "snippet": "10 Countries Where Crypto Remains Banned in 2025 · 1. China · 2. Egypt · 3. Algeria · 4. Bangladesh · 5. Nepal · 6. Afghanistan · 7. Morocco · 8 ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:27.083237",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto ban",
+    "title": "UK preparing to ban consumers from buying crypto with ...",
+    "url": "https://www.theguardian.com/technology/2025/may/02/uk-preparing-to-ban-consumers-from-buying-crypto-with-borrowed-funds-fca",
+    "snippet": "UK preparing to ban consumers from buying crypto with borrowed funds. Soaring cryptocurrency values after Trump election has put pressure on ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:27.083335",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto ban",
+    "title": "Banano price today, BAN to USD live price, marketcap ...",
+    "url": "https://coinmarketcap.com/currencies/banano/",
+    "snippet": "The live Banano price today is $0.001708 USD with a 24-hour trading volume of $5743.15 USD. We update our BAN to USD price in real-time.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:27.083497",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "crypto ban",
+    "title": "Why China had to “Ban” Cryptocurrency but the U.S. did not",
+    "url": "https://openscholarship.wustl.edu/law_globalstudies/vol18/iss2/9/",
+    "snippet": "While China explicitly banned any exchange or financing activities between fiat money and “coin substitution” in 2017, the US has placed cryptocurrencies ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:27.083596",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto regulation",
+    "title": "Cryptocurrency Regulation: A Guide to U.S. & Global Policies",
+    "url": "https://www.britannica.com/money/cryptocurrency-regulation",
+    "snippet": "Regulations for crypto are the legal and procedural frameworks that governments enact to shape many different aspects of digital assets.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:30.718804",
+    "sentiment": "positive"
+  },
+  {
+    "topic": "crypto regulation",
+    "title": "Crypto Task Force",
+    "url": "https://www.sec.gov/about/crypto-task-force",
+    "snippet": "The Crypto Task Force will help to draw clear regulatory lines, appropriately distinguish securities from non-securities, craft tailored disclosure frameworks, ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:30.718944",
+    "sentiment": "positive"
+  },
+  {
+    "topic": "crypto regulation",
+    "title": "Regulating crypto: Why, how, and who | ...",
+    "url": "https://www.brookings.edu/collection/regulating-crypto-why-how-and-who/",
+    "snippet": "Allen cautioned against bringing crypto into the regulatory system for fear of giving investors false guarantees around the quality of these assets and markets.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:30.719041",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto regulation",
+    "title": "Recent Developments Raise Significant Questions about ...",
+    "url": "https://www.moneylaunderingnews.com/2025/03/recent-developments-raise-significant-questions-about-the-future-of-regulation-and-enforcement-of-cryptocurrency/",
+    "snippet": "Clearing Agencies and Transfer Agents: The Task Force hopes to improve the intersection of crypto, clearing agency and transfer rules.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:30.719139",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto regulation",
+    "title": "Blockchain & Cryptocurrency Laws & Regulations 2025",
+    "url": "https://www.globallegalinsights.com/practice-areas/blockchain-cryptocurrency-laws-and-regulations/usa/",
+    "snippet": "The sale of cryptocurrency is generally only regulated if the sale (i) constitutes the sale of a security under state or federal law, or (ii) is ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:30.719235",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto regulation",
+    "title": "Markets in Crypto-Assets Regulation (MiCA)",
+    "url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+    "snippet": "The Markets in Crypto Assets Regulation (MiCA) entered into force in June 2023. The regulation includes a substantial number of Level 2 and Level 3 measures ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:30.719332",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "crypto regulation",
+    "title": "Crypto Regulation Hub",
+    "url": "https://www.davispolk.com/insights/resource-centers/crypto-regulation-hub",
+    "snippet": "This resource center contains links to congressional proposals related to the regulation of crypto assets and other helpful materials.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:30.719577",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "SEC ruling crypto",
+    "title": "Crypto Task Force",
+    "url": "https://www.sec.gov/about/crypto-task-force",
+    "snippet": "The Crypto Task Force seeks to provide clarity on the application of the federal securities laws to the crypto asset market and to recommend practical policy ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:32.656057",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "SEC ruling crypto",
+    "title": "Crypto Assets",
+    "url": "https://www.sec.gov/securities-topics/crypto-assets",
+    "snippet": "The Securities and Exchange Commission today announced fraud charges against three companies purporting to be market makers and nine individuals for engaging in ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:32.656203",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "SEC ruling crypto",
+    "title": "Cyber, Crypto Assets and Emerging Technology",
+    "url": "https://www.sec.gov/about/divisions-offices/division-enforcement/cyber-crypto-assets-emerging-technology",
+    "snippet": "The SEC's Crypto Task Force seeks to help the Commission provide clarity on the application of the federal securities laws to the crypto asset ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:32.656303",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "SEC ruling crypto",
+    "title": "SEC Says Bitcoin is NOT a Security | Cryptocurrency Law",
+    "url": "https://gordonlaw.com/learn/sec-says-bitcoin-not-security/",
+    "snippet": "The U.S. Securities and Exchange Commission declared that Bitcoin is not a security. Jump in to learn more about the decision and its industry impact.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:32.656401",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "SEC ruling crypto",
+    "title": "SEC Withdraws from Prominent Crypto Enforcement Amid ...",
+    "url": "https://www.corporatesecuritieslawblog.com/2025/02/sec-withdraws-from-prominent-crypto-enforcement-amid-regulatory-shift/",
+    "snippet": "The SEC filed its enforcement action against Coinbase in June 2023 under former-Chair Gary Gensler, alleging that the crypto platform violated ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:32.656499",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "SEC ruling crypto",
+    "title": "SEC repeals controversial crypto accounting rules for banks",
+    "url": "https://bankingjournal.aba.com/2025/01/sec-repeals-controversial-crypto-accounting-rules-for-banks/",
+    "snippet": "SAB 121, published in 2022, required SEC registrants to record an obligation to safeguard the crypto assets that they hold at the fair value of ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:32.656596",
+    "sentiment": "positive"
+  },
+  {
+    "topic": "SEC ruling crypto",
+    "title": "Offerings and Registrations of Securities in the Crypto ...",
+    "url": "https://www.sec.gov/newsroom/speeches-statements/cf-crypto-securities-041025",
+    "snippet": "SEC rules require an issuer to provide a materially complete description of its securities.[15] The specific disclosure depends on the ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:32.656693",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "SEC ruling crypto",
+    "title": "SEC Declares Bitcoin and Ether as Non-Securities - Cassels",
+    "url": "https://cassels.com/insights/sec-declares-bitcoin-and-ether-as-non-securities/",
+    "snippet": "William Hinman (Hinman), announced that the commission would not be treating Ether or Bitcoin as securities.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:32.656789",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "SEC ruling crypto",
+    "title": "SEC vs. Ripple: A Turning Point for US Crypto Regulation?",
+    "url": "https://gordonlaw.com/learn/sec-turning-point-crypto-regulation/",
+    "snippet": "In 2024, the SEC intensified its regulatory crackdown, issuing Wells notices and initiating enforcement actions against cryptocurrency firms like Crypto.com, ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:32.656885",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "court decision cryptocurrency",
+    "title": "Crypto in the Courts: Five Cases Reshaping Digital Asset ...",
+    "url": "https://katten.com/crypto-in-the-courts-five-cases-reshaping-digital-asset-regulation-in-2025",
+    "snippet": "This article examines five cases that may define the future of digital asset regulation in the United States and sets out the issues at stake in those cases.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:34.919207",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "court decision cryptocurrency",
+    "title": "Cryptocurrency, Sweepstakes, and the Supreme Court",
+    "url": "https://www.consumerfinancialserviceslawmonitor.com/2024/05/cryptocurrency-sweepstakes-and-the-supreme-court-a-tale-of-two-contracts/",
+    "snippet": "The decision teaches a cautionary lesson that parties with multiple contracts between them must keep issues of arbitrability consistent between the contracts.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:34.919423",
+    "sentiment": "positive"
+  },
+  {
+    "topic": "court decision cryptocurrency",
+    "title": "Third Circuit Coinbase Decision Pressures SEC on Crypto ...",
+    "url": "https://www.ropesgray.com/en/insights/alerts/2025/01/third-circuit-coinbase-decision-pressures-sec-on-crypto-rulemaking",
+    "snippet": "Court's Findings · The SEC's disagreement with Coinbase on the application of existing securities laws to digital assets was not well-reasoned.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:34.919537",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "court decision cryptocurrency",
+    "title": "Court Publishes Decision on Mandatory Arbitration Provisions ...",
+    "url": "https://consumerlaw.berkeley.edu/news/court-publishes-decision-mandatory-arbitration-provisions-crypto-industry-and-beyond",
+    "snippet": "The opinion establishes a clear blueprint for how to successfully bring claims against abusive cryptocurrency companies for violating consumer ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:34.919639",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "court decision cryptocurrency",
+    "title": "The SEC May Signal New Crypto Enforcement Approach In ...",
+    "url": "https://omm.com/insights/alerts-publications/the-sec-may-signal-new-crypto-enforcement-approach-in-upcoming-court-filing/",
+    "snippet": "The district court in SEC v. Coinbase found that the digital asset industry did not have the required significance. ... But Coinbase has appealed ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:34.919740",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "court decision cryptocurrency",
+    "title": "precedential",
+    "url": "https://www2.ca3.uscourts.gov/opinarch/233202p.pdf",
+    "snippet": "At a minimum, the SEC claimed that a digital asset is a security, and thus subject to the federal securities laws, if it is an “investment ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:34.919839",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "court decision cryptocurrency",
+    "title": "Appeals Court Reverses the SEC's Rejection of ...",
+    "url": "https://www.winston.com/en/blogs-and-podcasts/non-fungible-insights-blockchain-decrypted/appeals-court-reverses-the-secs-rejection-of-grayscales-spot-bitcoin-etf-proposal",
+    "snippet": "The three-judge panel unanimously concluded that the Commission failed to provide a “coherent explanation” as to why it approved bitcoin futures ETFs, but not ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:34.919937",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "court decision cryptocurrency",
+    "title": "Appeals court reinstates crypto traders' claims against feds",
+    "url": "https://www.courthousenews.com/appeals-court-reinstates-crypto-traders-claims-against-feds/",
+    "snippet": "A Sixth Circuit panel ruled Friday that amended reporting and disclosure requirements could violate digital currency traders' First Amendment rights.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:34.920035",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "gold price",
+    "title": "Gold Price Charts & Historical Data - GoldPrice.org",
+    "url": "https://goldprice.org/",
+    "snippet": "GOLDPRICE.ORG - The No. 1 gold price site for fast loading live gold price charts in ounces, grams and kilos in every national currency in the world.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:37.519056",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "gold price",
+    "title": "Gold price falls as U.S-U.K announce trade deal",
+    "url": "https://m.economictimes.com/news/international/us/gold-price-falls-as-u-s-u-k-announce-trade-deal-heres-how-much-it-fell-and-what-experts-are-saying/articleshow/121000097.cms",
+    "snippet": "Gold prices fall as U.S. President Donald Trump signals a major trade deal with Britain, easing market fears and reducing gold's appeal as a ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:37.519203",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "gold price",
+    "title": "Price of Gold Per Ounce | 24 Hour Spot Chart",
+    "url": "https://www.kitco.com/charts/gold",
+    "snippet": "Live Gold Charts and Gold Spot Price from International Gold Markets, Prices from New York, London, Hong Kong and Sydney provided by Kitco.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:37.519301",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "gold price",
+    "title": "Gold Price Today | Gold Spot Price Charts",
+    "url": "https://www.apmex.com/gold-price",
+    "snippet": "Gold Price Per Ounce. $3,324.80 USD, - ($58.30) USD ; Gold Price Per Gram. $106.89 USD, - ($1.87) USD ; Gold Price Per Kilo. $106,894.72 USD, - ($1,874.39) USD.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:37.519471",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "gold price",
+    "title": "Gold - Price - Chart - Historical Data - News",
+    "url": "https://tradingeconomics.com/commodity/gold",
+    "snippet": "Gold is expected to trade at 3285.01 USD/t oz. by the end of this quarter, according to Trading Economics global macro models and analysts expectations. Looking ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:37.519573",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "central bank gold reserve",
+    "title": "Central Banks Gold Reserves by Country",
+    "url": "https://www.gold.org/goldhub/data/gold-reserves-by-country",
+    "snippet": "Gold is an important component of central bank reserves because of its safety, liquidity and return characteristics – the three key ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:46.377659",
+    "sentiment": "positive"
+  },
+  {
+    "topic": "central bank gold reserve",
+    "title": "Gold reserve",
+    "url": "https://en.wikipedia.org/wiki/Gold_reserve",
+    "snippet": "A gold reserve is the gold held by a national central bank, intended mainly as a guarantee to redeem promises to pay depositors, note holders",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:46.377799",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "central bank gold reserve",
+    "title": "Top 10 Central Bank Gold Reserves | INN",
+    "url": "https://investingnews.com/daily/resource-investing/precious-metals-investing/gold-investing/top-central-bank-gold-holdings/",
+    "snippet": "Global central banks own about 17 percent of all the gold ever mined, with reserves topping 37,755 metric tons (MT) at the end of 2024. They ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:46.377898",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "central bank gold reserve",
+    "title": "Central Banks - Gold Demand Trends: Q1 2025",
+    "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q1-2025/central-banks",
+    "snippet": "Central banks' net purchases totalled 244t in Q1 · The National Bank of Poland accelerated its gold buying · Similar to previous quarters, sale ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:46.377996",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "central bank gold reserve",
+    "title": "Gold Reserves - Countries - List",
+    "url": "https://tradingeconomics.com/country-list/gold-reserves",
+    "snippet": "This page provides values for Gold Reserves reported in several countries. The table has current values for Gold Reserves, previous releases, historical highs ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:46.378092",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "central bank gold reserve",
+    "title": "The Role of Gold in Central Bank Reserves | Alchemist",
+    "url": "https://www.lbma.org.uk/alchemist/alchemist-110/the-role-of-gold-in-central-bank-reserves",
+    "snippet": "Gold's status as a currency is therefore borne out by the fact that bullion is counted as part of a central bank's foreign exchange reserves. It is the only ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:46.378191",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "central bank gold reserve",
+    "title": "Total reserves (includes gold, current US$)",
+    "url": "https://data.worldbank.org/indicator/FI.RES.TOTL.CD",
+    "snippet": "Total reserves minus gold (current US$), Bank liquid reserves to bank assets ratio (%), Bank nonperforming loans to total gross loans (%).",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:46.378286",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "trade tariffs",
+    "title": "Trump unveils 'breakthrough' US-UK trade deal, first since ' ...",
+    "url": "https://finance.yahoo.com/news/live/trump-tariffs-live-updates-trump-unveils-breakthrough-us-uk-trade-deal-first-since-liberation-day-tariffs-191201531.html",
+    "snippet": "The UK said the US will scale back the 25% sectoral tariffs on most foreign autos to 10% and eliminate tariffs on steel exports. Other details ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:48.255446",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "trade tariffs",
+    "title": "US-UK trade deal: How are Trump's global tariff talks ...",
+    "url": "https://www.aljazeera.com/news/2025/5/8/us-uk-trade-deal-how-are-trumps-global-tariff-talks-shaping-up",
+    "snippet": "The reciprocal tariffs, which varied from 10 percent to 39 percent, were designed to hit countries with which Washington has large trade ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:48.255623",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "trade tariffs",
+    "title": "UK-US tariff deal: Cars, steel and beef - what you need to ...",
+    "url": "https://www.bbc.com/news/articles/c15ng4g5g0eo",
+    "snippet": "The UK and the US have reached a deal over tariffs on some goods traded between the countries. President Donald Trump's blanket 10% tariffs ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:48.255724",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "trade tariffs",
+    "title": "Fact Sheet: President Donald J. Trump Declares National ...",
+    "url": "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/",
+    "snippet": "Monetary tariffs and non-monetary tariffs are two distinct types of trade barriers that governments use to regulate imports and exports. ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:48.255823",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "trade tariffs",
+    "title": "What tariffs has Trump announced and why?",
+    "url": "https://www.bbc.com/news/articles/cn93e12rypgo",
+    "snippet": "Tariffs are taxes charged on goods bought from other countries. Typically, they are a percentage of a product's value. A10% tariff means a $10 ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:48.255921",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "trade tariffs",
+    "title": "Presidential Tariff Actions",
+    "url": "https://ustr.gov/issue-areas/presidential-tariff-actions",
+    "snippet": "Executive Order: Amendment to Reciprocal Tariffs and Updated Duties as Applied to Low-Value Imports from the People's Republic of China. Executive Order: ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:48.256019",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "trade tariffs",
+    "title": "Regulating Imports with a Reciprocal Tariff to Rectify Trade ...",
+    "url": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/",
+    "snippet": "For example, the United States imposes a 2.5 percent tariff on passenger vehicle imports (with internal combustion engines), while the European ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:48.256116",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "trade tariffs",
+    "title": "Trump hails framework of U.K. trade deal, but 10% tariffs ...",
+    "url": "https://www.cbsnews.com/news/us-uk-trump-starmer-major-trade-deal/",
+    "snippet": "Commerce Secretary Howard Lutnick said the deal will raise $6 billion in revenue for the U.S. as a result of the 10% tariff on imports from the ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:48.256213",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "economic sanctions",
+    "title": "Economic sanctions",
+    "url": "https://en.wikipedia.org/wiki/Economic_sanctions",
+    "snippet": "Economic sanctions or embargoes are commercial and financial penalties applied by states or institutions against states, groups, or individuals.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:50.858996",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "economic sanctions",
+    "title": "What Are Economic Sanctions?",
+    "url": "https://www.cfr.org/backgrounder/what-are-economic-sanctions",
+    "snippet": "Economic sanctions are defined as the withdrawal of customary trade and financial relations for foreign- and security-policy purposes.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:50.859135",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "economic sanctions",
+    "title": "Sanctions Programs and Country Information",
+    "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information",
+    "snippet": "The sanctions can be either comprehensive or selective, using the blocking of assets and trade restrictions to accomplish foreign policy and national security ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:50.859234",
+    "sentiment": "negative"
+  },
+  {
+    "topic": "economic sanctions",
+    "title": "Economic Sanctions: An Overview",
+    "url": "https://www.usitc.gov/sites/default/files/publications/332/executive_briefings/ebot_economic_sanctions_overview.pdf",
+    "snippet": "Definition. Economic sanctions (hereunder, “sanctions”) are often defined as “...the deliberate, government- inspired withdrawal, or threat of withdrawal, ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:50.859331",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "economic sanctions",
+    "title": "Economic Sanctions Policy and Implementation",
+    "url": "https://www.state.gov/economic-sanctions-policy-and-implementation/",
+    "snippet": "The Office of Economic Sanctions Policy and Implementation (TFS/SPI) maintains and enforces sanctions to maximize their economic impact on our targets and ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:50.859480",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "economic sanctions",
+    "title": "US Economic Sanctions: Their Impact on Trade, Jobs, and ...",
+    "url": "https://www.piie.com/publications/working-papers/us-economic-sanctions-their-impact-trade-jobs-and-wages",
+    "snippet": "The OECD results suggest that extensive sanctions lower exports by 78 percent, while limited to modest sanctions reduce exports by 21 percent to 33 percent.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:50.859580",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "economic sanctions",
+    "title": "Evidence on the Costs and Benefits of Economic Sanctions",
+    "url": "https://www.piie.com/commentary/testimonies/evidence-costs-and-benefits-economic-sanctions",
+    "snippet": "While the benefits of economic sanctions are elusive, the costs often are not. Trade sanctions deprive the United States of the gains from trade and frequently ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:50.859676",
+    "sentiment": "positive"
+  },
+  {
+    "topic": "economic sanctions",
+    "title": "Are Economic Sanctions Effective Foreign Policy Tools?",
+    "url": "https://now.tufts.edu/2024/07/08/are-economic-sanctions-effective-foreign-policy-tools",
+    "snippet": "Economic sanctions are increasingly used to try to change foreign governments policies and actions, often with unintended consequences.",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:50.859772",
+    "sentiment": "neutral"
+  },
+  {
+    "topic": "economic sanctions",
+    "title": "Do Economic Sanctions Work?",
+    "url": "https://online.norwich.edu/online/about/resource-library/do-economic-sanctions-work",
+    "snippet": "51% of the time, an economic sanction is able to implement modest policy changes that affect citizens in a positive way or protect other countries. Economic ...",
+    "source": "serpapi",
+    "timestamp": "2025-05-08T20:10:50.859868",
+    "sentiment": "positive"
+  }
+]
