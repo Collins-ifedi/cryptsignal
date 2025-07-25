@@ -1,0 +1,1 @@
+This project is not distributed with a specific open-source license by default. All rights are reserved by the author(s) unless explicitly stated otherwise. Please contact the author(s) for licensing inquiries if you wish to use, modify, or distribute this software.
