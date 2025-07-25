@@ -1,0 +1,32 @@
+[
+  {
+    "title": "News",
+    "url": "https://www.yahoo.com/",
+    "source": "Yahoo Finance",
+    "timestamp": "2025-04-17T03:51:52.467807"
+  },
+  {
+    "title": "Life",
+    "url": "https://www.yahoo.com/lifestyle/",
+    "source": "Yahoo Finance",
+    "timestamp": "2025-04-17T03:51:52.467906"
+  },
+  {
+    "title": "Entertainment",
+    "url": "https://www.yahoo.com/entertainment/",
+    "source": "Yahoo Finance",
+    "timestamp": "2025-04-17T03:51:52.467965"
+  },
+  {
+    "title": "Finance",
+    "url": "https://finance.yahoo.com/",
+    "source": "Yahoo Finance",
+    "timestamp": "2025-04-17T03:51:52.468041"
+  },
+  {
+    "title": "Sports",
+    "url": "https://sports.yahoo.com/",
+    "source": "Yahoo Finance",
+    "timestamp": "2025-04-17T03:51:52.468094"
+  }
+]
