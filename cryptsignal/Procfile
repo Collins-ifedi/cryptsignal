@@ -1,1 +1,1 @@
-web: python src/interface/Server.py
+web: python cryptsignal/src/interface/Server.py
