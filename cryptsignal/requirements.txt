@@ -3,8 +3,8 @@ ccxt==4.4.89
 cryptography==44.0.2
 fastapi==0.115.14
 filetype==1.2.0
-numpy==2.2.3
-pandas==2.2.3
+numpy==1.26.4
+pandas==2.2.2
 pandas_ta==0.3.14b0
 pathlib==1.0.1
 python==3.11
@@ -21,3 +21,4 @@ uvicorn==0.35.0
 websocket==0.2.1
 websockets==15.0.1
 wheel==0.45.1
+scipy==1.13.1
