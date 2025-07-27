@@ -139,7 +139,7 @@ async def websocket_handler_endpoint(websocket: WebSocket):
 # -------------------------------------------------------
 # Define the routes for the application
 routes = [
-    Route("/api/generate", endpoint=api_generate_endpoint, methods=["POST" "OPTIONS"]),
+    Route("/api/generate", endpoint=api_generate_endpoint, methods=["POST","OPTIONS"]),
     WebSocketRoute("/ws", endpoint=websocket_handler_endpoint),
     # This Mount serves all your frontend files (index.html, main.js, etc.)
     # It MUST be the last route.
